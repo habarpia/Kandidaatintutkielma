@@ -1,3 +1,64 @@
+\documentclass[finnish]{tktltiki2}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{amsfonts,amsmath,amssymb,amsthm,booktabs,color,enumitem,graphicx}
+\usepackage[pdftex,hidelinks]{hyperref}
+
+\makeatletter
+\AtBeginDocument{\hypersetup{pdftitle = {\@title}, pdfauthor = {\@author}}}
+\makeatother
+
+\usepackage[fixlanguage]{babelbib}
+\selectbiblanguage{finnish}
+
+\usepackage[nottoc,numbib]{tocbibind}
+\settocbibname{Lähteet}
+
+\newtheorem{lau}{Lause}
+\newtheorem{lem}[lau]{Lemma}
+\newtheorem{kor}[lau]{Korollaari}
+
+\theoremstyle{definition}
+\newtheorem{maar}[lau]{Määritelmä}
+\newtheorem{ong}{Ongelma}
+\newtheorem{alg}[lau]{Algoritmi}
+\newtheorem{esim}[lau]{Esimerkki}
+
+\theoremstyle{remark}
+\newtheorem*{huom}{Huomautus}
+
+\title{Esimerkkiotsikko}
+\author{Eija Esimerkki}
+\date{\today}
+\level{Seminaariraportti}
+\abstract{Referaatti.}
+
+\keywords{avainsana 1, avainsana 2, avainsana 3}
+\classification{}
+
+
+
+\begin{document}
+
+% --- Front matter ---
+
+\maketitle        % title page
+\makeabstract     % abstract page
+
+\tableofcontents  % table of contents
+\newpage          % clear page after the table of contents
+
+
+% --- Main matter ---
+
+\section{...}
+
+% Write some science here.
+
+Esimerkkilause ja lähdeviite~\cite{esimerkki}.
 ﻿Opiskelijoiden käyttö tietojenkäsittelytieteen opettamisessa Stanfordin yliopistossa
 
 
@@ -30,3 +91,11 @@ Opetus
 Opettamisen oppiminen
 
 Tärkeä osa CS198:a oli opiskelijoiden saama kokemus opettamisesta. Opiskelijat osallistuivat tapaamisiin, joissa keskusteltiin opetustavoista ja simuloitiin opetustilanteita. Kokeneemmat ryhmänohjaajat pystyivät jakamaan kokemustaan uusille. Tapaamissa myös pyrittiin jakamaan tietoa eri kurssien välillä.
+
+
+
+\bibliographystyle{babplain}
+\bibliography{references-fi}
+
+
+\end{document}
