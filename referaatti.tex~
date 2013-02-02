@@ -30,65 +30,51 @@
 \theoremstyle{remark}
 \newtheorem*{huom}{Huomautus}
 
-\title{Esimerkkiotsikko}
-\author{Eija Esimerkki}
+\title{﻿Opiskelijoiden käyttö tietojenkäsittelytieteen opettamisessa Stanfordin yliopistossa}
+\author{Hanna Arpiainen}
 \date{\today}
-\level{Seminaariraportti}
+\level{Kandidaatintutkielma}
 \abstract{Referaatti.}
 
 \keywords{avainsana 1, avainsana 2, avainsana 3}
 \classification{}
 
-
-
 \begin{document}
 
-% --- Front matter ---
+\maketitle
+\makeabstract
 
-\maketitle        % title page
-\makeabstract     % abstract page
-
-\tableofcontents  % table of contents
-\newpage          % clear page after the table of contents
-
-
-% --- Main matter ---
-
-\section{...}
-
-% Write some science here.
-
-Esimerkkilause ja lähdeviite~\cite{esimerkki}.
-﻿Opiskelijoiden käyttö tietojenkäsittelytieteen opettamisessa Stanfordin yliopistossa
+\tableofcontents
+\newpage
 
 
 
-Tausta
+\section{Johdanto}
 
-Stuart Reges, John McGrory ja Jeff Smith kirjoittavat artikkelissaan ”The effective use of undergraduates to staff large introductory CS courses” (1988) mitä etua Stanfordin yliopistossa saatiin opiskelijoiden käyttämisestä alkeiskurssien opetuksessa. 
--CS198
+Stuart Reges, John McGrory ja Jeff Smith kirjoittavat artikkelissaan ”The effective use of undergraduates to staff large introductory CS courses” (1988) mitä etua Stanfordin yliopistossa saatiin opiskelijoiden käyttämisestä alkeiskurssien opetuksessa. Yliopistoilla oli tavoitteena parantaa tietojenkäsittelytieteen alkeiskurssien opetuksen laatua ja määrää ilman, että kustannukset kohoaisivat. Artikkelin mukaan Stanfordin yliopistossa näissä tavoitteissa onnistuttiin käyttämällä opiskelijoita opettamiseen. Stanfordissa luotiin myös kurssi CS198, jossa opetettiin tietojenkäsittelytieteen opettamista.
 
 
-Erilaiset kokeilut
+
+\section{Erilaiset kokeilut}
 
 Uusien opiskelijoiden hyödyntämiseen tehokkaasti opetuksessa kokeiltiin useita erilaisia rakenteita. Ensimmäisten kokeilujen ongelmana oli se, että tehtävien arvostelijat eivät tienneet tarpeeksi hyvin, mikä kurssilla oli tärkeää. Lisäksi joidenkin mielestä oli ongelmallista palkita opiskelijat opintopisteillä palkan sijaan. Lopulta päädyttiin malliin, jossa uudet opiskelijat saavat opintopisteitä ja vanhemmat palkkaa.
 
 
 
-Opiskelijoiden käyttämisen edut
+\section{Opiskelijoiden käyttämisen edut}
 
 - tuntevat opetettavat opiskelijat, materiaalin ja tietokoneet, lähellä opiskelijoita
 -tekninen osaaminen?
 
 
 
-Opetus
+\section{Opiskelijoiden työtehtävät}
 
-- viikoittainen keskustelusessio
+Kukin CS198:n opiskelija toimi ohjaajana ryhmälliselle alkeiskurssin opiskelijoita. Ryhmänohjaajat järjestivät ryhmälleen viikoittasen keskustelusession, 
 - yksilöllinen palaute viikoittain
 
 
-Opettamisen oppiminen
+\section{Opettamisen oppiminen}
 
 Tärkeä osa CS198:a oli opiskelijoiden saama kokemus opettamisesta. Opiskelijat osallistuivat tapaamisiin, joissa keskusteltiin opetustavoista ja simuloitiin opetustilanteita. Kokeneemmat ryhmänohjaajat pystyivät jakamaan kokemustaan uusille. Tapaamissa myös pyrittiin jakamaan tietoa eri kurssien välillä.
 
