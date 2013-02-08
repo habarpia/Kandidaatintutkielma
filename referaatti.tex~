@@ -33,7 +33,7 @@
 \title{﻿Opiskelijoiden käyttö tietojenkäsittelytieteen opettamisessa Stanfordin yliopistossa}
 \author{Hanna Arpiainen}
 \date{\today}
-\level{Kandidaatintutkielma}
+\level{Referaatti}
 \abstract{Referaatti.}
 
 \keywords{avainsana 1, avainsana 2, avainsana 3}
@@ -51,24 +51,29 @@
 
 \section{Johdanto}
 
-Stuart Reges, John McGrory ja Jeff Smith kirjoittavat artikkelissaan ”The effective use of undergraduates to staff large introductory CS courses” (1988) mitä etua Stanfordin yliopistossa saatiin opiskelijoiden käyttämisestä alkeiskurssien opetuksessa. Yliopistoilla oli tavoitteena parantaa tietojenkäsittelytieteen alkeiskurssien opetuksen laatua ja määrää ilman, että kustannukset kohoaisivat. Artikkelin mukaan Stanfordin yliopistossa näissä tavoitteissa onnistuttiin käyttämällä opiskelijoita opettamiseen. Stanfordissa luotiin myös kurssi CS198, jossa opetettiin tietojenkäsittelytieteen opettamista.
+Stuart Reges, John McGory ja Jeff Smith tutkivat artikkelissaan ”The effective use of undergraduates to staff large introductory CS courses” (1988), miten voisi parantaa tietojenkäsittelytieteen alkeiskurssien opetuksen laatua ja määrää ilman, että kustannukset kohoaisivat. Stanfordin yliopistossa ongelma koetettiin ratkaista käyttämällä opiskelijoita alkeiskurssien opetukseen. Kokeilu oli onnistunut, ja opiskelijoiden käyttöä alkeiskurssien ohjaajina jatkettiin edelleen. 
 
 \\
 
-Uusien opiskelijoiden hyödyntämiseen tehokkaasti opetuksessa kokeiltiin useita erilaisia rakenteita. Ensimmäisten kokeilujen ongelmana oli se, että tehtävien arvostelijat eivät tienneet tarpeeksi hyvin, mikä kurssilla oli tärkeää. Lisäksi joidenkin mielestä oli ongelmallista palkita opiskelijat opintopisteillä palkan sijaan. Lopulta päädyttiin malliin, jossa uudet opiskelijat saavat opintopisteitä ja vanhemmat palkkaa. Vaikka opettamisen palkitseminen opintopisteillä jakoi yhä mielipiteitä, CS198:a pidettiin onnistuneena opettavaisena kokemuksena.
+Stanfordissa luotua kurssia CS198 "Tietojenkäsittelytieteen opettaminen" pidettiin myös 
+
+\\
+
+
+Uusien opiskelijoiden hyödyntämiseen opetuksessa kokeiltiin useita erilaisia rakenteita. Ensimmäisten kokeilujen ongelmana oli se, että  tehtävien arvostelijat eivät tienneet tarpeeksi hyvin, mikä kurssilla oli tärkeää. Lopulta päädyttiin malliin, jossa uudet opiskelijat saavat opintopisteitä ja vanhemmat palkkaa. Vaikka opettamisen palkitseminen opintopisteillä jakoi mielipiteitä, kurssia CS198 pidettiin onnistuneena ja opettavaisena kokemuksena.
 
 
 
 
 
-\section{Opiskelijoiden työtehtävät}
+\section{Ohjaajien työtehtävät}
 
 Kukin CS198:n opiskelija toimi ohjaajana ryhmälliselle alkeiskurssin opiskelijoita. Ryhmänohjaajien tehtäviin kuului järjestää ryhmälleen viikoittainen keskustelusessio, jossa käytiin läpi kurssin sisältöä. Keskustelusessiot eivät noudata mitään tiukkaa kaavaa, vaan ryhmänohjaaja muokkaa niiden sisällön vastaamaan ryhmän tarpeita. Ryhmänohjaaja saattoi esimerkiksi kerrata luentojen asioita, esittää lisäesimerkkejä tai vastata opiskelijoiden esittämiin kysymyksiin. Mikäli ryhmä oli ymmärtänyt jonkin tärkeän asian väärin, ryhmänohjaaja saattoi joutua hylkäämään aiemmat suunnitelmansa korjatakseen tilanteen.
 
 
 \\
 
-Lisäksi ryhmänohjaajat tapasivat kerran viikossa kaikki ryhmänsä opiskelijat yksilöllisessä palautekeskustelussa. Näissä keskusteluissa ryhmänohjaaja sai hyvän kuvan opiskelijan edistymisestä kurssilla. Ryhmänohjaajat myös päivystivät tietokoneluokassa valmiina auttamaan kurssin opiskelijoita kurssiin liittyvissä ongelmissa.
+Ryhmänohjaajat tapasivat kerran viikossa kaikki ryhmänsä opiskelijat yksilöllisessä palautekeskustelussa. Näissä keskusteluissa ryhmänohjaaja sai kuvan opiskelijan edistymisestä kurssilla. Ryhmänohjaajat myös päivystivät tietokoneluokassa valmiina auttamaan kurssin opiskelijoita kurssiin liittyvissä ongelmissa.
 
 
 
@@ -76,16 +81,16 @@ Lisäksi ryhmänohjaajat tapasivat kerran viikossa kaikki ryhmänsä opiskelijat
 
 \section{Opettamisen oppiminen}
 
-Tärkeä osa CS198:a oli opiskelijoiden saama kokemus opettamisesta. Suurin osa CS198:n opiskelijoiden kouluttamisesta oli käytännön harjoittelua, mutta he osallistuivat myös viikoittaisiin tapaamisiin ohjaajan ja muiden opiskelijoiden kanssa. Tapaamisissa pyrittiin opettamaan opettamista avoimien kesustelujen ja opetustilanteiden simuloinnin avulla pelkän luennoinnin sijaan. Kokeneempia ryhmänohjaajia rohkaistiin myös osallistumaan tapaamisiin, koska heidän kokemuksensa ja esimerkkinsä oli erittäin hyödyllinen uusille ryhmänohjaajille. Samalla he pystyivät myös päivittämään omia taitojaan. 
+Tärkeä osa CS198:a oli opiskelijoiden saama kokemus opettamisesta. Suurin osa CS198:n opiskelijoiden kouluttamisesta oli käytännön harjoittelua, mutta he osallistuivat viikoittaisiin tapaamisiin ohjaajan ja muiden opiskelijoiden kanssa. Tapaamisissa pyrittiin opettamaan opettamista avoimien kesustelujen ja opetustilanteiden simuloinnin avulla pelkän luennoinnin sijaan. Kokeneempia ryhmänohjaajia rohkaistiin osallistumaan tapaamisiin, koska heidän kokemuksensa ja esimerkkinsä oli erittäin hyödyllinen uusille ryhmänohjaajille. Samalla he pystyivät myös päivittämään omia taitojaan. 
 
 \\
 
-Tapaamissa myös pyrittiin jakamaan ryhmänohjaajille tietoa eri kurssien sisällöstä ja tehtävistä, jotta he pystyisivät neuvomaan opiskelijoita mahdollisimman tehokkaasti. Tapaamisissa eri kurssien ryhmänohjaajat ja assistentit myös pystyivät tapaamaan ja tiedottamaan oman kurssinsa edistymisestä ja mahdollisista ongelmista.
+Tapaamissa pyrittiin jakamaan ryhmänohjaajille tietoa eri kurssien sisällöistä ja tehtävistä, jotta he pystyisivät neuvomaan opiskelijoita mahdollisimman tehokkaasti. Tapaamisissa eri alkeiskurssien ryhmänohjaajat ja assistentit myös pystyivät tapaamaan ja tiedottamaan oman kurssinsa edistymisestä ja mahdollisista ongelmista.
 
 
 \section{Opiskelijoiden käyttämisen edut}
 
-Artikkelin mukaan opinnoissaan pidemmälle edenneiden opiskelijoiden korvaaminen uudemmilla opetustehtävissä saatiin hyviä tuloksia. Uudessa, kommunikointia korostavassa mallissa opiskelijoiden tarpeet pystytään huomioimaan paremmin, ja tieto liikkuu eri kurssien välillä. Uudessa mallissa ryhmäkoot olivat pienempiä, joten opiskelijat saivat enemmän yksilöllistä huomiota.
+Artikkelin mukaan opinnoissaan pidemmälle edenneiden opiskelijoiden korvaaminen uudemmilla opetustehtävissä saatiin hyviä tuloksia. Uudessa, kommunikointia korostavassa mallissa opiskelijoiden tarpeet pystytään huomioimaan paremmin, ja tieto liikkuu eri kurssien välillä. Uudessa mallissa yhden ohjaajan vastuulla oli vähemmän opiskelijoita, joten opiskelijat saivat enemmän yksilöllistä huomiota.
 
 \\
 
