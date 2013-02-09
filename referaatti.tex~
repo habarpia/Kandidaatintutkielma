@@ -53,20 +53,16 @@
 
 Stuart Reges, John McGory ja Jeff Smith tutkivat artikkelissaan ”The effective use of undergraduates to staff large introductory CS courses” (1988), miten voisi parantaa tietojenkäsittelytieteen alkeiskurssien opetuksen laatua ja määrää ilman, että kustannukset kohoaisivat. Stanfordin yliopistossa ongelma koetettiin ratkaista käyttämällä opiskelijoita alkeiskurssien opetukseen. Kokeilu oli onnistunut, ja opiskelijoiden käyttöä alkeiskurssien ohjaajina jatkettiin edelleen. 
 
-\\
-
-Stanfordissa luotua kurssia CS198 "Tietojenkäsittelytieteen opettaminen" pidettiin myös 
-
-\\
-
-
-Uusien opiskelijoiden hyödyntämiseen opetuksessa kokeiltiin useita erilaisia rakenteita. Ensimmäisten kokeilujen ongelmana oli se, että  tehtävien arvostelijat eivät tienneet tarpeeksi hyvin, mikä kurssilla oli tärkeää. Lopulta päädyttiin malliin, jossa uudet opiskelijat saavat opintopisteitä ja vanhemmat palkkaa. Vaikka opettamisen palkitseminen opintopisteillä jakoi mielipiteitä, kurssia CS198 pidettiin onnistuneena ja opettavaisena kokemuksena.
 
 
 
+\section{Opiskelijoiden käyttäminen ohjauksessa}
+
+Uusien opiskelijoiden hyödyntämiseen opetuksessa kokeiltiin useita erilaisia rakenteita. Ensimmäisten kokeilujen ongelmana oli se, että  tehtävien arvostelijat eivät tienneet tarpeeksi hyvin, mikä kurssilla oli tärkeää. Lopulta päädyttiin malliin, jossa uudet opiskelijat saavat opintopisteitä ja vanhemmat palkkaa. Opettamisesta luotiin kurssi CS198 "Tietojenkäsittelytieteen opettaminen", jota pidettiin onnistuneena ja opettavaisena kokemuksena, vaikka opettamisen palkitseminen opintopisteillä jakoi mielipiteita.
 
 
-\section{Ohjaajien työtehtävät}
+
+\section{Opiskelijoiden ohjausroolit}
 
 Kukin CS198:n opiskelija toimi ohjaajana ryhmälliselle alkeiskurssin opiskelijoita. Ryhmänohjaajien tehtäviin kuului järjestää ryhmälleen viikoittainen keskustelusessio, jossa käytiin läpi kurssin sisältöä. Keskustelusessiot eivät noudata mitään tiukkaa kaavaa, vaan ryhmänohjaaja muokkaa niiden sisällön vastaamaan ryhmän tarpeita. Ryhmänohjaaja saattoi esimerkiksi kerrata luentojen asioita, esittää lisäesimerkkejä tai vastata opiskelijoiden esittämiin kysymyksiin. Mikäli ryhmä oli ymmärtänyt jonkin tärkeän asian väärin, ryhmänohjaaja saattoi joutua hylkäämään aiemmat suunnitelmansa korjatakseen tilanteen.
 
