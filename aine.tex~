@@ -1,0 +1,61 @@
+\documentclass[finnish]{tktltiki2}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{amsfonts,amsmath,amssymb,amsthm,booktabs,color,enumitem,graphicx}
+\usepackage[pdftex,hidelinks]{hyperref}
+
+\makeatletter
+\AtBeginDocument{\hypersetup{pdftitle = {\@title}, pdfauthor = {\@author}}}
+\makeatother
+
+\usepackage[fixlanguage]{babelbib}
+\selectbiblanguage{finnish}
+
+\usepackage[nottoc,numbib]{tocbibind}
+\settocbibname{Lähteet}
+
+\newtheorem{lau}{Lause}
+\newtheorem{lem}[lau]{Lemma}
+\newtheorem{kor}[lau]{Korollaari}
+
+\theoremstyle{definition}
+\newtheorem{maar}[lau]{Määritelmä}
+\newtheorem{ong}{Ongelma}
+\newtheorem{alg}[lau]{Algoritmi}
+\newtheorem{esim}[lau]{Esimerkki}
+
+\theoremstyle{remark}
+\newtheorem*{huom}{Huomautus}
+
+\title{﻿Opiskelijoiden käyttö tietojenkäsittelytieteen opettamisessa}
+\author{Hanna Arpiainen}
+\date{\today}
+\level{Aine}
+\abstract{Referaatti.}
+
+\keywords{avainsana 1, avainsana 2, avainsana 3}
+\classification{}
+
+\begin{document}
+
+\maketitle
+\makeabstract
+
+\tableofcontents
+\newpage
+
+
+
+\section{...}
+Artikkeleissa käsiteltiin opiskelijoiden käyttämistä tietojenkäsittelytieteen kurssien opettamisessa erilaisissa yliopistoissa.
+
+
+
+\bibliographystyle{babplain}
+\bibliography{lahteet}
+
+
+\end{document}
