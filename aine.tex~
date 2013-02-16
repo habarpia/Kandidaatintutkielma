@@ -34,7 +34,7 @@
 \author{Hanna Arpiainen}
 \date{\today}
 \level{Aine}
-\abstract{Referaatti.}
+\abstract{Aine.}
 
 \keywords{avainsana 1, avainsana 2, avainsana 3}
 \classification{}
@@ -49,9 +49,21 @@
 
 
 
-\section{...}
-Artikkeleissa käsiteltiin opiskelijoiden käyttämistä tietojenkäsittelytieteen kurssien opettamisessa erilaisissa yliopistoissa.
+\section{Johdanto}
 
+\section{Opiskelijoiden käyttäminen opetuksessa}
+
+\section{Ohjaajien roolit}
+
+\section{Opiskelijoiden käyttäminen opetuksessa erilaisissa oppilaitoksissa}
+-suuret vs pienet
+\\
+-yksityinen vs julkinen
+
+\section{Opiskelijoiden käyttämisen edut}
+-Taloudelliset, opetuksen laatu, ohjaajien saama kokemus jne
+
+\section{Ongelmat}
 
 
 \bibliographystyle{babplain}
