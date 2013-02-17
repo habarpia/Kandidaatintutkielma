@@ -50,20 +50,47 @@
 
 
 \section{Johdanto}
+Tietojenkäsittelytieteen opetuksessa tarkoituksena on pystyä antamaan mahdollisimman paljon ja mahdollisimman laadukasta opetusta etenkin alkeiskursseille ilman, että kustannukset kohoavat. Eräs ratkaisu tähän on käyttää opiskelijoita opetuksessa.
+
+
 
 \section{Opiskelijoiden käyttäminen opetuksessa}
+Opiskelijoita on käytetty tietojenkäsittelytieteen opetuksessa jo pitkään, mutta Stuart Reges, John McGrory ja Jeff Smith Stanfordin yliopistosta olivat ensimmäiseiä, jotka kirjoittivat mallin toiminnasta.
+
 
 \section{Ohjaajien roolit}
+Opiskelijat toimivat ohjaajana ryhmälliselle jonkin alkeiskurssin opiskelijoita. Ryhmänohjaajien tehtäviin kuuluu esimerkiksi pitää viikoittaisia keskustelusessioita, joissa käytiin läpi kurssin sisältöä.Keskustelusessiot eivät noudattneeta mitään tiukkaa kaavaa, vaan ryhmänohjaaja muokkasi niiden sisällön vastaamaan ryhmän tarpeita. Ryhmänohjaaja saattoi esimerkiksi kerrata luentojen asioita, esittää lisäesimerkkejä tai vastata opiskelijoiden esittämiin kysymyksiin. Ryhmänohjaajan oli oltava myös joustava; mikäli ryhmä oli ymmärtänyt jonkin tärkeän asian väärin oli ryhmänohjaajan mahdollisesti hylättävä aiemmat suunnitelmansa voidakseen korjata tilanteen.
+
+\\
+
+Ryhmänohjaajat tapasivat kerran viikossa kaikki ryhmänsä opiskelijat yksilöllisessä palautekeskustelussa. Näissä keskusteluissa ryhmänohjaaja sai kuvan opiskelijan edistymisestä kurssilla. Ryhmänohjaajat myös päivystivät tietokoneluokassa valmiina auttamaan kurssin opiskelijoita kurssiin liittyvissä ongelmissa.
+
+
+
+\section{Ohjaajien koulutus}
+Uudet ohjaajat koulutetaan usein erillisellä kurssilla. Kurssilla voidaan esimerkiksi keskustellaan erilaisista opetustyyleistä, mahdollisesti vaikeiden käsitteiden opettamisesta, tehtävien pisteyttämisestä ja hankalien opiskelijoiden käsittelystä. Kokeneet ohjaajat voivat osallistua kurssille jakaakseen kokemustaan ja päivittääkseen omia taitojaan.
+\\
+Joissain yliopistoissa ohjaajat pystyvät vaikuttamaan uusien ohjaajien valintaan esimerkiksi ehdottamalla valintakriteereitä tai valintaprosessin vaiheita.
+
+
 
 \section{Opiskelijoiden käyttäminen opetuksessa erilaisissa oppilaitoksissa}
--suuret vs pienet
-\\
--yksityinen vs julkinen
+Opiskelijoiden käyttö opetuksessa on havaittu hyödylliseksi erilaisissa oppilaitoksissa. Malli toimii myös pienissä yliopistoissa, joissa hallinnointiin ei välttämättä tarvita erillistä assistenttia. Malli onnistuttiin siirtämään myös yksityisistä yliopistoista julkisiin.
+
 
 \section{Opiskelijoiden käyttämisen edut}
--Taloudelliset, opetuksen laatu, ohjaajien saama kokemus jne
+Opiskelijoiden käyttämisestä ohjaajina on taloudellista etua, sillä heille maksettava palkka voi olla matalampi kuin kokeneemmille assistenteille, tai heidät palkitaan opintopisteillä. Ohjaajien käyttö myös nostaa opetuksen laatua, sillä koska he ovat halvempia, voi heitä palkata enemmän, jolloin kurssin opiskelijat saavat enemmän yksilöllistä huomiota. Lisäksi ohjaajat tuntevat kurssin sisällön ja yliopiston tietokoneet paremmin kuin vanhemmat assistentit. 
+\\
+Ohjaajien läsnäolo luennoilla on luonut kursseille rennompaa ilmapiiriä. Ohjaajien käyttöönotto on luonut yhteisöllisyyttä sellaisiinkin yliopistoihin, joissa ei aiemmin ollut minkäänlaista kunnollista opiskelijayhteisöä. Naispuolisten ohjaajien käyttäminen on lisännyt naisten määrää tietojenkäsittelytieteen pääaineopiskelijoina.
+\\
+Monessa yliopistossa on todettu, että kaikkein eniten mallista ovat hyötyneet ohjaajat itse, sillä he saavat kokemusta opettamisesta ja ryhmätyötaidoista, pystyvät helpommin solmimaan suhteita tiedeyhteisössä ja oppivat itse opettamastaan materiaalista.
+
+
 
 \section{Ongelmat}
+On myös pidetty ongelmallisena, että opiskelijat arvostelevat toisten, saman asteen opiskelijoiden tehtäviä. Ohjaajien palkitseminen opintopisteillä palkan sijaan on jakanut mielipiteitä. Vaikka muillakin tieteenaloilla opiskelijoita palkitaan opintopisteillä tutkimusprojekteihin osallistumisesta, on esitetetty, että opettamiseen osallistuminen ei olisi yhtä arvokasta kuin tutkimukseen osallistuminen.
+\\
+Valtion yliopistoissa taloudelliset ja lakisääteiset syyt rajoittavat mallin toimintaa. 
 
 
 \bibliographystyle{babplain}
