@@ -41,9 +41,65 @@ Artikkeli kertoo, kuinka Stanfordin yliopiston malli opiskelijoiden käyttämise
 
 
 
+
+
 Through the Looking Glass: Reflections on Using Undergraduate Teaching Assistants in CS1
 Adrienne Decker, Phil Ventura, Christopher Egert
 
-Artikkeli kertoo opiskelijoiden käyttämisestä opetuksessa Buffalon yliopistossa.
+Artikkeli kertoo opiskelijoiden käyttämisestä opetuksessa Buffalon yliopistossa. Artikkeli kertoo ohjaajien työtehtävistä, uusien ohjaajien työhön otosta ja ohjaajien ja luennoitsijan kommunikaation eduista.
 -Tavoitteena parantaa opetusta, sillä jatko-opiskelijoihin opetusassistentteina ei oltu tyytyväisiä
+-Opiskelijoiden käyttö opiskelussa koettiin hyödylliseksi
+
+
+
+
+A systemic Mentoring Model in Computer Science
+Rahman Tashakkori, James T. Wilkes, Edward G Pekarek
+
+Artikkeli kertoo tietojenkäsittelytieteen opiskelijoiden käyttämisestä vertaisementoreina. Mentorit opettelevat jonkin asian ja opettavat sen sitten yksilöllisessä keskustelussa opetettavalle. Mentoreita on eri tasoisia, ja joku mentori voi olla jonkun toisen mentoroitavana jollain toisella kurssilla.
+-Tavoitteena parantaa opetuksen laatua
+-Malli havaittiin hyödylliseksi; heikosti menestyneet opiskelijat saavat huomiota heti alussa ja heidän tuloksensa paranevat, ja edistyneet opiskelijat saavat ylimääräisiä haastavampia tehtäviä.
+
+
+
+
+
+What Can We Learn From Quantitative Teaching Assistant Evaluations?
+Elizabeth Patitsas, Patrice Belleville
+
+Artikkeli kertoo assistenttien arvioinnista. Koska palaute on assistenteille tärkeää opettajana kehittymisen ja itsetunnon kannalta olisi sen hyvä olla tarkkaa, mutta nykyinen malli on kirjoittajien mielestä karkea.
+-Tavoitteena parantaa assistenttien opetuksen laatua
+-Havaittiin, että käytetty malli on epätarkka. Assistentin sukupuoli ja opiskelijan arvosanat eivät vaikuttaneet palautteeseen, mutta opiskelijoista etäiset vanhemmat assistentit ja yli kahdelle kurssille osallistuvat assistentit saivat heikompia arvioita.
+
+
+
+
+
+Meeting the Challenges of Rising Enrollments
+Eric S. Roberts
+
+Lyhyt artikkeli kertoo tietojenkäsittelytieteen opiskelijoiden määrästä ja sen syklisistä vaihteluista. Alan osaajia tarvitaan entistä enemmän, ja monet sivuaineopiskelijat haluavat vaihtaa tietojenkäsittelytieteen pääaineekseen. Etenkin taloudelliset syyt estävät riittävän opetuksen tarjoamisen.
+-Tavoitteena estää opiskelijakadot ja tarjota mahdollisimman paljon opetusta
+-Ratkaisuksi Roberts ehdottaa yhteistyötä teollisuuden kanssa, keskittyä henkilökunnan palkkaamisessa ja käyttää opiskelijoita opetuksessa.
+
+
+
+
+
+Large Introductory Computer Science Classes: Strategies for Effective Course Management
+David G. Kay
+
+Artikkeli kertoo tietojenkäsittelytieteen alkeiskurssien suurten opiskelijamäärien ongelmista, kuten kasvanut työmäärä ja massaan hukkuvat opiskelijat. Tehtävien arvostelu ei myöskään välttämättä ole yhtenäistä, jos tarkastajia on useita.
+-Tavoitteena parantaa opetuksen laatua
+-Ratkaisuiksi Kay ehdottaa esim. isojen luentojen täydentämistä tai korvaamista pienemmillä ryhmätapaamisilla, opettajan ja opiskelijoiden kommunikoinnin parantamista ja opiskelijoiden käyttämistä ryhmänohjaajina.
+
+
+
+
+
+Undergraduate Consultation: Opportunities and Challenges
+John Paxton
+
+Artikkeli kertoo Montanan valtion yliopiston pakollisesta kurssista, jossa opiskelijat toimivat ohjaajina jollain ensimmäisen tai toisen vuoden kurssilla. 
 -
+-Kurssi on todettu hyödylliseksi, mutta sen pakollisuudesta ja työmäärästä käydään keskustelua.
