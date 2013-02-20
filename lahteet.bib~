@@ -1,4 +1,4 @@
-@article{Reges:1988:EUU:52965.52971,
+@article{Reges,
  author = {Reges, Stuart and McGrory, John and Smith, Jeff},
  title = {The effective use of undergraduates to staff large introductory CS courses},
  journal = {SIGCSE Bull.},
@@ -100,4 +100,27 @@
  acmid = {2184465},
  publisher = {Consortium for Computing Sciences in Colleges},
  address = {USA},
+} 
+
+
+
+
+@article{Decker:2006:TLG:1124706.1121358,
+ author = {Decker, Adrienne and Ventura, Phil and Egert, Christopher},
+ title = {Through the looking glass: reflections on using undergraduate teaching assistants in CS1},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 2006},
+ volume = {38},
+ number = {1},
+ month = mar,
+ year = {2006},
+ issn = {0097-8418},
+ pages = {46--50},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1124706.1121358},
+ doi = {10.1145/1124706.1121358},
+ acmid = {1121358},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {CS1, undergraduate teaching assistants},
 } 
