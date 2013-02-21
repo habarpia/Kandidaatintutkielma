@@ -18,7 +18,7 @@
 } 
 
 
-@article{Reges:2003:UUT:792548.611943,
+@article{Reges03,
  author = {Reges, Stuart},
  title = {Using undergraduates as teaching assistants at a state university},
  journal = {SIGCSE Bull.},
@@ -41,7 +41,7 @@
 
 
 
-@article{Roberts:1995:UUT:199691.199716,
+@article{Roberts95,
  author = {Roberts, Eric and Lilly, John and Rollins, Bryan},
  title = {Using undergraduates as teaching assistants in introductory programming courses: an update on the Stanford experience},
  journal = {SIGCSE Bull.},
@@ -84,7 +84,7 @@
 
 
 
-@article{SantaMaria:2012:UUT:2184451.2184465,
+@article{SantaMaria12,
  author = {Santa Maria, Ramona and Banerjee, Sarbani},
  title = {Using undergraduate teaching assistants in introductory computer courses},
  journal = {J. Comput. Sci. Coll.},
@@ -105,7 +105,7 @@
 
 
 
-@article{Decker:2006:TLG:1124706.1121358,
+@article{Decker06,
  author = {Decker, Adrienne and Ventura, Phil and Egert, Christopher},
  title = {Through the looking glass: reflections on using undergraduate teaching assistants in CS1},
  journal = {SIGCSE Bull.},
@@ -123,4 +123,26 @@
  publisher = {ACM},
  address = {New York, NY, USA},
  keywords = {CS1, undergraduate teaching assistants},
+} 
+
+
+
+
+@article{Roberts2011,
+ author = {Roberts, Eric S.},
+ title = {Meeting the challenges of rising enrollments},
+ journal = {ACM Inroads},
+ issue_date = {September 2011},
+ volume = {2},
+ number = {3},
+ month = aug,
+ year = {2011},
+ issn = {2153-2184},
+ pages = {4--6},
+ numpages = {3},
+ url = {http://doi.acm.org/10.1145/2003616.2003617},
+ doi = {10.1145/2003616.2003617},
+ acmid = {2003617},
+ publisher = {ACM},
+ address = {New York, NY, USA},
 } 
