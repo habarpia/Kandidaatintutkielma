@@ -128,7 +128,7 @@
 
 
 
-@article{Roberts2011,
+@article{Roberts11,
  author = {Roberts, Eric S.},
  title = {Meeting the challenges of rising enrollments},
  journal = {ACM Inroads},
@@ -145,4 +145,71 @@
  acmid = {2003617},
  publisher = {ACM},
  address = {New York, NY, USA},
+} 
+
+
+
+
+@inproceedings{Tashakkori:2005:SMM:1167350.1167453,
+ author = {Tashakkori, Rahman and Wilkes, James T. and Pekarek, Edward G.},
+ title = {A systemic mentoring model in computer science},
+ booktitle = {Proceedings of the 43rd annual Southeast regional conference - Volume 1},
+ series = {ACM-SE 43},
+ year = {2005},
+ isbn = {1-59593-059-0},
+ location = {Kennesaw, Georgia},
+ pages = {371--375},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1167350.1167453},
+ doi = {10.1145/1167350.1167453},
+ acmid = {1167453},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {CS1/2, course related, graduate, pedagogy, systemic mentoring, undergraduate peer-mentoring},
+} 
+
+
+
+
+
+@inproceedings{Patitsas:2012:WLQ:2247569.2247582,
+ author = {Patitsas, Elizabeth and Belleville, Patrice},
+ title = {What can we learn from quantitative teaching assistant evaluations?},
+ booktitle = {Proceedings of the Seventeenth Western Canadian Conference on Computing Education},
+ series = {WCCCE '12},
+ year = {2012},
+ isbn = {978-1-4503-1407-7},
+ location = {Vancouver, British Columbia, Canada},
+ pages = {36--40},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/2247569.2247582},
+ doi = {10.1145/2247569.2247582},
+ acmid = {2247582},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {computer education, retention, teaching assistants, teaching evaluations},
+} 
+
+
+
+
+
+@article{Kay:1998:LIC:274790.273177,
+ author = {Kay, David G.},
+ title = {Large introductory computer science classes: strategies for effective course management},
+ journal = {SIGCSE Bull.},
+ issue_date = {Mar. 1998},
+ volume = {30},
+ number = {1},
+ month = mar,
+ year = {1998},
+ issn = {0097-8418},
+ pages = {131--134},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/274790.273177},
+ doi = {10.1145/274790.273177},
+ acmid = {273177},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {course management, introductory courses, large courses, teaching techniques},
 } 
