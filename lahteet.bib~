@@ -213,3 +213,25 @@
  address = {New York, NY, USA},
  keywords = {course management, introductory courses, large courses, teaching techniques},
 } 
+
+
+
+
+
+@article{Paxton:2005:UCO:1088791.1088832,
+ author = {Paxton, John},
+ title = {Undergraduate consultation: opportunities and challenges},
+ journal = {J. Comput. Sci. Coll.},
+ issue_date = {October 2005},
+ volume = {21},
+ number = {1},
+ month = oct,
+ year = {2005},
+ issn = {1937-4771},
+ pages = {231--238},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=1088791.1088832},
+ acmid = {1088832},
+ publisher = {Consortium for Computing Sciences in Colleges},
+ address = {USA},
+} 
