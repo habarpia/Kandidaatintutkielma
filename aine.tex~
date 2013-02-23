@@ -77,7 +77,8 @@ Ryhmänohjaajat voivat päivystää tietokoneluokassa valmiina auttamaan kurssin
 Ohjaajat voivat pitää kurssin kertaustilaisuuden ennen koetta. Kertaustilaisuudessa he voivat kertoa, mitkä kurssin asiat ovat tärkeitä ja mitä kokeessa todennäköisesti kysytään, tai esitellä vanhoja kokeita ja niiden ratkaisuja.\cite{Decker06}
 \\
 Usein ohjaajan tehtäviin kuuluu tehtävien tarkistaminen. Ohjaaja voi myös päivittää kurssin verkkosivuja.\cite{Dickson11}
-
+\\
+Ryhmänohjaajamallin lisäksi opiskelijoita voi käyttää opetuksessa myös vertaismentoreina. Vertaismentorimallissa ne opiskelijat, jotka tarvitsevat lisää tukea opintoihinsa tai tarvitsevat ylimääräisiä haasteita saavat mentoriopiskelijan, joka osaa kurssin sisällön hyvin.\cite{Tashakkori05}
 
 \subsection{Millainen on hyvä ohjaaja?}
 On vaikea määritellä tarkkaan, millainen on hyvä ohjaaja, koska niin monet erilaiset ohjaajat ovat onnistuneet tehtävässään. Ohjaajalta vaaditaan kuitenkin aitoa innostusta auttaa muita oppimaan ja vastuullisuutta noudattaa kurssin käytäntöjä. Ohjaajan ei ole välttämätöntä olla ohjelmoinnin erityisosaaja, mutta hänen edellytetään olevan valmis kehittämään itseään pystyäkseen auttamaan opetettaviaan riittävästi.\cite{Reges88} Ohjaaja voi jopa hyötyä siitä, että hänellä on itsellään ollut vaikeuksia oppia ohjelmoimaan, sillä se voi auttaa häntä ymmärtämään paremmin opetettaviensa vaikeuksi samojen tehtävien kanssa.\cite{Decker06}
@@ -104,7 +105,7 @@ Ohjaajia hyödyntävien kurssien henkilökunnan rakenne vaihtelee kursseittain j
 \section{Hyötyjä}
 
 \subsection{Yliopistolle}
-Opiskelijoiden käyttämisestä ohjaajina on taloudellista etua, sillä heille maksettava palkka on yleensä matalampi kuin kokeneemmille assistenteille, tai heidät palkitaan opintopisteillä.
+Opiskelijoiden käyttämisestä ohjaajina on taloudellista etua, sillä heille maksettava palkka on yleensä matalampi kuin kokeneemmille assistenteille, tai heidät palkitaan opintopisteillä. Yliopistolla työskentelevät opiskelijat voivat toimia roolimalleina muille opiskelijoille.\cite{Tashakkori05}
 
 \subsection{Opetukselle}
 Koska opiskelijoiden palkkaaminen ohjaajiksi on halvempaa kuin muiden vaihtoehtojen, voi heitä palkata enemmän. Näin opetettavat saavat enemmän yksilöllistä huomiota. Mikäli ohjaaja on läsnä esimerkiksi luennolla ja esittää luennotsijalle kysymyksiä aiheesta, rohkaisee se opiskelijoitakin osallistumaan enemmän luennoilla. Kurssin ilmapiiriä rentouttaa, jos opiskelijat näkevät luennoitsijan ja ohjaajan tulevan hyvin toimeen keskenään. Kurssin opiskelijat hyötyvät, jos heidän keskuudessaan on ohjaaja, joka osaa heti kurssin alussa kertoa luennoitsijan opetustyylistä ja painotuksista. Ohjaaja voi olla jonkin tietojenkäsittelyn osa-alueen erityisosaaja ja tuoda osaamisensa kurssin hyödyksi.\cite{Dickson11}
