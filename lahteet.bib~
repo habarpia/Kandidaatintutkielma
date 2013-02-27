@@ -235,3 +235,142 @@
  publisher = {Consortium for Computing Sciences in Colleges},
  address = {USA},
 } 
+
+
+
+
+
+@article{Roberts02,
+ author = {Roberts, Eric S. and Kassianidou, Marina and Irani, Lilly},
+ title = {Encouraging women in computer science},
+ journal = {SIGCSE Bull.},
+ issue_date = {June 2002},
+ volume = {34},
+ number = {2},
+ month = jun,
+ year = {2002},
+ issn = {0097-8418},
+ pages = {84--88},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/543812.543837},
+ doi = {10.1145/543812.543837},
+ acmid = {543837},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+
+
+
+@INPROCEEDINGS{4418053,
+author={Brent, R. and Maners, J. and Raubenheimer, D. and Craig, A.},
+booktitle={Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports, 2007. FIE '07. 37th Annual}, title={Preparing undergraduates to teach computer applications to engineering freshmen},
+year={2007},
+month={oct.},
+volume={},
+number={},
+pages={F1J-19 -F1J-22},
+keywords={Application software;Computer aided instruction;Computer applications;Computer science;Education;Educational institutions;Engineering students;Ethics;Hardware;Maintenance engineering;computer science education;engineering education;teaching;Introduction to Computing Environments course;Session North Carolina State University;computer applications teaching;engineering freshmen;engineering students;student-owned notebook computers;training program;undergraduates;Freshman engineering;Introduction to computing;TA training;Undergraduate teaching assistants;},
+doi={10.1109/FIE.2007.4418053},
+ISSN={0190-5848},}
+
+
+@INPROCEEDINGS{5350637,
+author={Johnson, E.C. and Loui, M.C.},
+booktitle={Frontiers in Education Conference, 2009. FIE '09. 39th IEEE}, title={Work in progress - how do students benefit as peer leaders of learning teams?},
+year={2009},
+month={oct.},
+volume={},
+number={},
+pages={1 -2},
+keywords={Automotive engineering;Biology;Chemistry;Circuit analysis;Collaborative work;Computer science;Education;Electrical engineering;Physics;Springs;computer science education;continuing education;educational courses;educational institutions;electrical engineering education;teaching;ECE 110;University of Illinois at Urbana- Champaign;computer engineering;educational course;electrical engineering;intellectual diversity;irregular student attendance;learning teams;peer leaders;peer-led team learning workshops;student preparation;team leader;undergraduate teaching assistants;undergraduate volunteers;leadership skills;peer-led team learning;teaching assistants;},
+doi={10.1109/FIE.2009.5350637},
+ISSN={0190-5848},}
+
+
+
+
+@INPROCEEDINGS{5673606,
+author={Matusovich, H. and Cooper, M. and Winters, K.},
+booktitle={Frontiers in Education Conference (FIE), 2010 IEEE}, title={Work in progress #x2014; Understanding the role of graduate teaching assistants in contributing to student motivation},
+year={2010},
+month={oct.},
+volume={},
+number={},
+pages={S1C-1 -S1C-3},
+keywords={Conferences;Engineering students;Instruments;Interviews;Lead;Meteorology;educational courses;engineering education;further education;human factors;psychology;teaching;GTA;engineering courses;graduate teaching assistants;learning;mixed-methods approach;qualitative analysis;student motivation;student perceptions;survey data analysis;First-year programs;motivation;},
+doi={10.1109/FIE.2010.5673606},
+ISSN={0190-5848},}
+
+
+
+
+
+@INPROCEEDINGS{4475940,
+author={Awwad, Yousef and Lin, Hsien Tang and Yuan, Shyan Ming},
+booktitle={Multimedia Workshops, 2007. ISMW '07. Ninth IEEE International Symposium on}, title={Hybrid Teaching Assistant for Developing Students Interactivity and Comprehension},
+year={2007},
+month={dec.},
+volume={},
+number={},
+pages={29 -34},
+keywords={Computer science;Conferences;Education;Electronic learning;Feedback;Information management;Materials science and technology;Mobile handsets;System testing;Web pages;},
+doi={10.1109/ISM.Workshops.2007.11},
+ISSN={},}
+
+
+
+
+@INPROCEEDINGS{1408571,
+author={Pavelich, M.J. and Streveler, R.A.},
+booktitle={Frontiers in Education, 2004. FIE 2004. 34th Annual}, title={An active learning, student-centered approach to training graduate teaching assistants},
+year={2004},
+month={oct.},
+volume={},
+number={},
+pages={ F1E - 1-5 Vol. 2},
+keywords={Chemistry;Educational institutions;Engineering education;Feedback;Laboratories;Learning systems;Logistics;Scheduling;Testing;Vehicles; educational courses; student experiments; training; Colorado School of Mines; active learning; educational courses; graduate teaching assistants; laboratory learning; philosophy learning; recitation teaching; student-centered teaching; teaching sound bites; training program;},
+doi={10.1109/FIE.2004.1408571},
+ISSN={0190-5848},}
+
+
+
+@INPROCEEDINGS{896583,
+author={Richards, L.G.},
+booktitle={Frontiers in Education Conference, 2000. FIE 2000. 30th Annual}, title={Teaching graduate teaching assistants (GTAs) how to teach},
+year={2000},
+month={},
+volume={2},
+number={},
+pages={F3F/14 -F3F/20 vol.2},
+keywords={Art;Circuits;Design engineering;Education;Educational institutions;Engineering students;Internet;Material properties;Problem-solving;Statistics;educational courses;engineering education;teacher training;teaching;Engineering Concepts course;University of Virginia;communication skills;educational course;first year students;graduate students;graduate teaching assistants;survey;teacher training;teaching;undergraduate students;},
+doi={10.1109/FIE.2000.896583},
+ISSN={0190-5848},}
+
+
+
+@INPROCEEDINGS{6143106,
+author={Cardella, M.E. and Diefes-Dux, H.A. and Verleger, M. and Fry, A. and Carnes, M.T.},
+booktitle={Frontiers in Education Conference (FIE), 2011}, title={Work in progress #x2014; Using multiple methods to investigate the role of feedback in open-ended activities},
+year={2011},
+month={oct.},
+volume={},
+number={},
+pages={S4D-1 -S4D-3},
+keywords={Cities and towns;Conferences;Educational institutions;Engineering education;Interviews;Mathematics;engineering education;feedback;teaching;video recording;work in progress;formative feedback;instructional material redesign;multiple data collection method;open ended activity;open ended ambiguous problem;student feedback;student learning;student work;teaching assistant;video recording;work in progress;feedback;model-eliciting activities;modeling;triangulation;},
+doi={10.1109/FIE.2011.6143106},
+ISSN={0190-5848},}
+
+
+
+
+@INPROCEEDINGS{1158655,
+author={Morgan, J. and Kenimer, A. and Kohutek, T. and Rinehart, J. and Lee, M.},
+booktitle={Frontiers in Education, 2002. FIE 2002. 32nd Annual}, title={Peer teacher from an instructor's perspective},
+year={2002},
+month={nov.},
+volume={3},
+number={},
+pages={ S2C-11 - S2C-15 vol.3},
+keywords={Calculus;Chemistry;Collaboration;Education;Educational institutions;Employee welfare;Graphics;Instruments;Physics;Problem-solving; educational courses; engineering education; teaching; USA; engineering education course; mentors; peer teachers; teaching assistant; undergraduate; university;},
+doi={10.1109/FIE.2002.1158655},
+ISSN={0190-5848},}
