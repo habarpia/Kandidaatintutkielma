@@ -89,7 +89,8 @@ Usein ohjaajan tehtäviin kuuluu tehtävien tarkistaminen. Ohjaaja voi myös pä
 On vaikea määritellä tarkkaan, millainen on hyvä ohjaaja, koska niin monet erilaiset ohjaajat ovat onnistuneet tehtävässään. Ohjaajalta vaaditaan kuitenkin aitoa innostusta auttaa muita oppimaan ja vastuullisuutta noudattaa kurssin käytäntöjä. Ohjaajan ei ole välttämätöntä olla ohjelmoinnin erityisosaaja, mutta hänen edellytetään ymmärtävän kurssin sisältö ja olevan valmis kehittämään itseään pystyäkseen auttamaan opetettaviaan riittävästi.\cite{Reges88} Ohjaaja voi jopa hyötyä siitä, että hänellä on itsellään ollut vaikeuksia oppia ohjelmoimaan, sillä se voi auttaa häntä ymmärtämään paremmin opetettaviensa vaikeuksia samojen tehtävien kanssa.\cite{Decker06}
 \\
 On havaittu, että uudet opiskelijat ovat yleensä parempia ohjaajia kuin vanhemmat, opinnoissaan pidemmälle edenneet opiskelijat. Uusilla ohjaajilla on muistissaan hyvä kuva kurssin pääasioista, koska he ovat itse käyneet kurssin vasta vähän aikaa sitten.\cite{Dickson11} Pitkälle edenneiden opiskelijoiden taas saattaa olla vaikeaa ymmärtää kurssin materiaalia, opetustekniikkaa tai alkeiskurssien opiskelijoiden ongelmia, ja heidän voi olla vaikeampi ymmärtää laitoksen tietokoneita.\cite{Reges88} Ohjattavien voi olla vaikea suhtautua ohjaajaan, jos tämä on heitä kovin paljon vanhempi.\cite{Decker06}
-
+\\
+Aito kiinnostus opetettavien auttamiseen on keskeistä ohjaajan menestykselle. \cite{Richards00}
 
 
 \subsection{Ohjaajien koulutus}
@@ -128,7 +129,7 @@ Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksess
 \\
 Yliopistolla työskentelevät opiskelijat voivat toimia roolimalleina muille opiskelijoille\cite{Roberts95, Tashakkori05}, sillä opiskelijoiden voi olla vaikea nähdä itsensä esimerkiksi kokeneena luennoitsijana, kun taas ohjaaja tarjoaa helpommin lähestyttävämmän roolimallin.\cite{Roberts02} Jos ohjaajat valitaan opiskelijoiden keskuudesta, voidaan henkilökunta saada paremmin vastaamaan opiskelijoita. Etenkin naisille ja vähemmistöjen edustajille voi olla tärkeää saada kaltaisensa roolimalli, jotta heidän on helpompi tuntea kuuluvansa joukkoon.\cite{Morgan02} Ryhmänohjaajamalli mahdollistaa paremmin pienryhmissä opiskelun, joka auttaa opiskelijoita tutustumaan toisiinsa. Yhteenkuuluvuuden tunne saa opiskelijat pysymään alalla paremmin.
 \\
-Ryhmänohjaajamalli voi toimia myös koulutuksena ja innoituksena uusille luennoitsijoille yliopiston tulevaisuudessa.\cite{Roberts95, Morgan02}
+Ryhmänohjaajamalli voi toimia koulutuksena ja innoituksena uusille luennoitsijoille yliopiston tulevaisuudessa.\cite{Roberts95, Morgan02} Ryhmänohjaajia ohjaavat opettajat saavat tilaisuuden vaikuttaa ohjaajien näkemykseen opetusalasta.\cite{Morgan02}
 \\
 Koska opiskelijoiden palkkaaminen ohjaajiksi on halvempaa kuin muiden vaihtoehtojen, voi heitä palkata enemmän. Näin opetettavat saavat enemmän yksilöllistä huomiota. Kurssilla voi olla enemmän pieniä tehtäviä, jotka innostavat opiskelijoita paremmin lukemaan materiaalia, kun tehtävien tarkastamiseen on käytössä enemmän henkilökuntaa.\cite{Dickson11} Jonkun tietyn henkilökunnan edustajan mahdollinen puolueellisuus ei välttämättä pääse vaikuttamaan opiskelijoihin, jos luokassa on samaan aikaan useita erilaisia ohjaajia.\cite{Morgan02}
 \\
