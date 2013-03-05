@@ -261,7 +261,7 @@
 
 
 
-@INPROCEEDINGS{4418053,
+@INPROCEEDINGS{Brent07,
 author={Brent, R. and Maners, J. and Raubenheimer, D. and Craig, A.},
 booktitle={Frontiers In Education Conference - Global Engineering: Knowledge Without Borders, Opportunities Without Passports, 2007. FIE '07. 37th Annual}, title={Preparing undergraduates to teach computer applications to engineering freshmen},
 year={2007},
@@ -274,7 +274,7 @@ doi={10.1109/FIE.2007.4418053},
 ISSN={0190-5848},}
 
 
-@INPROCEEDINGS{5350637,
+@INPROCEEDINGS{Johnson09,
 author={Johnson, E.C. and Loui, M.C.},
 booktitle={Frontiers in Education Conference, 2009. FIE '09. 39th IEEE}, title={Work in progress - how do students benefit as peer leaders of learning teams?},
 year={2009},
@@ -289,7 +289,7 @@ ISSN={0190-5848},}
 
 
 
-@INPROCEEDINGS{5673606,
+@INPROCEEDINGS{Matusovich10,
 author={Matusovich, H. and Cooper, M. and Winters, K.},
 booktitle={Frontiers in Education Conference (FIE), 2010 IEEE}, title={Work in progress #x2014; Understanding the role of graduate teaching assistants in contributing to student motivation},
 year={2010},
@@ -305,7 +305,7 @@ ISSN={0190-5848},}
 
 
 
-@INPROCEEDINGS{4475940,
+@INPROCEEDINGS{Awwad07,
 author={Awwad, Yousef and Lin, Hsien Tang and Yuan, Shyan Ming},
 booktitle={Multimedia Workshops, 2007. ISMW '07. Ninth IEEE International Symposium on}, title={Hybrid Teaching Assistant for Developing Students Interactivity and Comprehension},
 year={2007},
@@ -320,7 +320,7 @@ ISSN={},}
 
 
 
-@INPROCEEDINGS{1408571,
+@INPROCEEDINGS{Pavelich04,
 author={Pavelich, M.J. and Streveler, R.A.},
 booktitle={Frontiers in Education, 2004. FIE 2004. 34th Annual}, title={An active learning, student-centered approach to training graduate teaching assistants},
 year={2004},
@@ -334,7 +334,7 @@ ISSN={0190-5848},}
 
 
 
-@INPROCEEDINGS{896583,
+@INPROCEEDINGS{Richards00,
 author={Richards, L.G.},
 booktitle={Frontiers in Education Conference, 2000. FIE 2000. 30th Annual}, title={Teaching graduate teaching assistants (GTAs) how to teach},
 year={2000},
@@ -348,7 +348,7 @@ ISSN={0190-5848},}
 
 
 
-@INPROCEEDINGS{6143106,
+@INPROCEEDINGS{Cardella11,
 author={Cardella, M.E. and Diefes-Dux, H.A. and Verleger, M. and Fry, A. and Carnes, M.T.},
 booktitle={Frontiers in Education Conference (FIE), 2011}, title={Work in progress #x2014; Using multiple methods to investigate the role of feedback in open-ended activities},
 year={2011},
@@ -363,7 +363,7 @@ ISSN={0190-5848},}
 
 
 
-@INPROCEEDINGS{1158655,
+@INPROCEEDINGS{Morgan02,
 author={Morgan, J. and Kenimer, A. and Kohutek, T. and Rinehart, J. and Lee, M.},
 booktitle={Frontiers in Education, 2002. FIE 2002. 32nd Annual}, title={Peer teacher from an instructor's perspective},
 year={2002},
@@ -374,3 +374,62 @@ pages={ S2C-11 - S2C-15 vol.3},
 keywords={Calculus;Chemistry;Collaboration;Education;Educational institutions;Employee welfare;Graphics;Instruments;Physics;Problem-solving; educational courses; engineering education; teaching; USA; engineering education course; mentors; peer teachers; teaching assistant; undergraduate; university;},
 doi={10.1109/FIE.2002.1158655},
 ISSN={0190-5848},}
+
+
+
+
+@ARTICLE{Bernstein,
+author={Bernstein, G.H.},
+journal={Potentials, IEEE}, title={The role of the lab TA [teaching assistants]},
+year={Aug/Sep},
+volume={21},
+number={3},
+pages={36-38},
+keywords={education;student experiments;teaching;laboratory experience;students;teaching assistants;Auditory system;Chemistry;Educational institutions;Instruments;Laboratories;Physics;Roads;Safety;Visualization;Writing},
+doi={10.1109/MP.2002.1033665},
+ISSN={0278-6648},}
+
+
+
+@ARTICLE{Aminzadeh,
+author={Aminzadeh, R.},
+journal={Potentials, IEEE}, title={Being a Teaching Assistant Can Play an Important Role in Your Future Career},
+year={Aug.},
+volume={31},
+number={4},
+pages={14-16},
+keywords={Career development;Employment;Engineering education;Engineering profession;Professional aspects},
+doi={10.1109/MPOT.2012.2198681},
+ISSN={0278-6648},}
+
+
+
+@ARTICLE{West12,
+   author = {{West}, E.~A. and {Paul}, C.~A. and {Webb}, D. and {Potter}, W.~H.
+	},
+    title = "{Variation of Instructor-Student Interactions in an Introductory Interactive Physics Course}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1212.1494},
+ primaryClass = "physics.ed-ph",
+ keywords = {Physics - Physics Education},
+     year = 2012,
+    month = dec,
+   adsurl = {http://adsabs.harvard.edu/abs/2012arXiv1212.1494W},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{Ferstl10,
+   author = {{Ferstl}, A.},
+    title = "{Teaching and Learning Science with Learning Assistants}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1007.3789},
+ primaryClass = "physics.ed-ph",
+ keywords = {Physics - Physics Education},
+     year = 2010,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1007.3789F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
