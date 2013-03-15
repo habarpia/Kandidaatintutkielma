@@ -433,3 +433,80 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1007.3789F},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+
+
+
+@article{Hogan07,
+Abstract = {We describe a program for involving undergraduate teaching assistants (UTAs) in many types of psychology courses, as well as a 1-credit seminar for preparation of UTAs. The program, widely used by both faculty and students, has matured over a 10-year period. The seminar covers such topics as course organization, evaluation procedures, and videotaping a class presentation. UTAs sign a contract that includes ethical challenges they may encounter. We outline the potential benefits of the program for the UTAs, fellow students, the faculty, and the institution. [ABSTRACT FROM AUTHOR]},
+Author = {Hogan, Thomas P. and Norcross, John C. and Cannon, J. Timothy and Karpiak, Christie P.},
+ISSN = {00986283},
+Journal = {Teaching of Psychology},
+Keywords = {TEACHERS' assistants, PSYCHOLOGY teachers, COURSE evaluation (Education), UNIVERSITIES & colleges -- Faculty, INSTRUCTIONAL systems, EVALUATION, COLLEGE students, TRAINING of},
+Number = {3},
+Pages = {187 - 190},
+Title = {Faculty Forum: Working With and Training Undergraduates as Teaching Assistants.},
+Volume = {34},
+URL = {http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=26342746&site=ehost-live&scope=site},
+Year = {2007},
+}
+
+
+
+
+@article{Kopp00,
+  author={Sacha E Kopp},
+  title={Undergraduate peer assistants in a large lecture course},
+  journal={Physics Education},
+  volume={35},
+  number={6},
+  pages={423},
+  url={http://stacks.iop.org/0031-9120/35/i=6/a=308},
+  year={2000},
+  abstract={This article summarizes an experiment in which 11 undergraduate `peer assistants' were recruited to join the regular teaching staff of graduate teaching assistants and faculty for a large physical science lecture course. The UTAs assist with active learning exercises, which replace a portion of the usual passive lecture format. This article describes the active learning techniques used and assesses improvements in learning with the implementation of UTAs.}
+}
+
+
+
+
+@inproceedings{Gray08,
+Author = "Kara Gray and Valerie Otero", 
+Title = {Analysis of Learning Assistants’ Views of Teaching and Learning}, BookTitle = {Physics Education Research Conference 2008}, 
+Pages = {123-126}, 
+Address = {Edmonton, Canada}, 
+Series = {PER Conference}, Volume = {1064}, 
+Month = {July 23-24}, 
+Year = {2008} 
+}
+
+
+
+
+
+@article{harper02,
+author = {Kathleen Andre Harper and David B. May and Keith W. Oliver},
+collaboration = {},
+title = {Using Undergraduate Students as Physics Lab Teaching Assistants},
+publisher = {AAPT},
+year = {2002},
+journal = {The Physics Teacher},
+volume = {40},
+number = {4},
+pages = {226-228},
+keywords = {physics; teaching; personnel; problem solving; groupware; design of experiments; cognitive systems; testing; human factors; undergraduate laboratories; teaching assistants; instructional strategies; evaluation},
+url = {http://link.aip.org/link/?PTE/40/226/1},
+doi = {10.1119/1.1474146}
+}
+
+
+
+@article{Gilreath94,
+Author = "John Gilreath and Timothy F. Slater", 
+Title = {Training graduate teaching assistants to be better undergraduate physics educators}, 
+Journal = {Phys. Educ.}, 
+Volume = {29}, 
+Number = {4}, 
+Pages = {200-203}, 
+Month = {July}, 
+Year = {1994} 
+}
