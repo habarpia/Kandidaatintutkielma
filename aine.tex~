@@ -52,7 +52,7 @@
 
 
 \section{Johdanto}
-Tietojenkäsittelytieteen  Ongelmana on usein taloudellisten resurssien puute, mikä johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia \cite{Roberts11}. 
+Tietojenkäsittelytieteen opetuksen tarve on kasvanut. Ongelmana on usein taloudellisten resurssien puute, mikä johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia \cite{Roberts11}. 
 \\
 Ongelmaa voi ratkaista kehittämällä yhteistyötä teollisuuden kanssa, koska sillä on taloudellisia resursseja tukea opetusta \cite{Roberts11}. Toinen ratkaisu on palkata alkeiskursseille mahdollisimman pätevää henkilökuntaa. 
 \\
@@ -60,7 +60,9 @@ Kolmas ratkaisu ongelmaan on hyödyntää opiskelijoita opetuksessa, mihin täss
 \\
 Vaikka opiskelijoita on hyödynnetty tietojenkäsittelytieteen opetuksessa jo pitkään, aihetta on tutkittu niukasti. Opiskelijoiden käyttämistä ohjaajina käsittelevät artikkelit antavat usein yksipuolisen myönteisen kuvan aiheesta, koska mahdollisista haitoista tai huonosti toimivan toteutuksen riskeistä on kirjoitettu vain vähän. 
 
-\section{???}
+
+\section{Opiskelijamäärien kasvu}
+
 Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia. Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
 
 \subsection{Suurten luentojen ongelmat}
@@ -139,11 +141,11 @@ Yliopistolla työskentelevät opiskelijat voivat toimia roolimalleina muille opi
 \\
 Ryhmänohjaajien käyttäminen voi toimia koulutuksena ja innoituksena uusille luennoijoille yliopiston tulevaisuudessa \cite{Roberts95, Morgan02}. Ryhmänohjaajia ohjaavat opettajat saavat tilaisuuden vaikuttaa ohjaajien näkemykseen opetusalasta \cite{Morgan02}.
 \\
-Koska opiskelijoiden palkkaaminen ohjaajiksi on halvempaa kuin muiden vaihtoehtojen, voi heitä palkata enemmän. Näin opetettavat saavat enemmän yksilöllistä huomiota. Kurssilla voi olla enemmän pieniä tehtäviä, jotka innostavat opiskelijoita paremmin lukemaan materiaalia, kun tehtävien tarkastamiseen on käytössä enemmän henkilökuntaa \cite{Dickson11}. Jonkun tietyn henkilökunnan edustajan mahdollinen puolueellisuus ei välttämättä pääse vaikuttamaan opiskelijoihin, jos luokassa on samaan aikaan useita erilaisia ohjaajia \cite{Morgan02}.
+Koska opiskelijoiden palkkaaminen ohjaajiksi on halvempaa kuin muiden vaihtoehtojen, voi heitä palkata enemmän. Näin opetettavat saavat enemmän yksilöllistä huomiota. Kurssilla voi olla enemmän pieniä tehtäviä, jotka innostavat opiskelijoita paremmin lukemaan materiaalia, kun tehtävien tarkastamiseen on käytössä enemmän henkilökuntaa \cite{Dickson11}.  \cite{Vikberg}. Jonkun tietyn henkilökunnan edustajan mahdollinen puolueellisuus ei välttämättä pääse vaikuttamaan opiskelijoihin, jos luokassa on samaan aikaan useita erilaisia ohjaajia \cite{Morgan02}.
 \\
 Kurssin ilmapiiriä rentouttaa, jos opiskelijat näkevät luennoijan ja ohjaajan tulevan hyvin toimeen keskenään. Mikäli ohjaaja on läsnä esimerkiksi luennolla ja esittää luennotsijalle kysymyksiä aiheesta, rohkaisee se opiskelijoitakin osallistumaan enemmän luennoilla. Kurssin opiskelijat hyötyvät, jos heidän keskuudessaan on ohjaaja, joka osaa heti kurssin alussa kertoa luennoijan opetustyylistä ja painotuksista. Ohjaaja voi olla jonkin tietojenkäsittelyn osa-alueen erityisosaaja ja tuoda osaamisensa kurssin hyödyksi. Motivoitunut ohjaaja motivoi opetettaviakin työskentelemään ahkerammin \cite{Dickson11}. Kurssin opiskelijoiden voi olla helpompi antaa palautetta ohjaajalle kuin luennoijalle \cite{Morgan02}. Ohjaajat pystyvät antamaan hyödyllistä palautetta kurssin toiminnasta ja antaa parannusehdotuksia \cite{Decker06}.
 \\
-Ohjaajat saavat palkkaa tai opintopisteitä, minkä lisäksi opettaminen parantaa heidän ryhmätyö- ja esiintymistaitojaan. Opettaessaan he oppivat itsekin materiaalin paremmin \cite{Reges03}, ja opetettavien kannustaminen hyvään ohjelmointityyliin parantaa ohjaajankin ohjelmointityyliä \cite{Roberts95}. Ohjaajana toimiminen opettaa vastuukantoa ja liittää opiskelijan paremmin mukaan yliopiston yhteisöön \cite{Dickson11}. Ohjaajat voivat saada toisistaan seuraa ja osallistua keskenään erilaisiin vapaa-ajan aktiviteetteihin \cite{Roberts95}.
+Ohjaajat saavat palkkaa tai opintopisteitä, minkä lisäksi opettaminen parantaa heidän ryhmätyö- ja esiintymistaitojaan. Ohjaajat oppivat keskustelemaan tietokonetaidoiltaan eritasoisten opiskelijoiden kanssa \cite{Vikberg}. Opettaessaan he oppivat itsekin materiaalin paremmin \cite{Reges03}, ja opetettavien kannustaminen hyvään ohjelmointityyliin parantaa ohjaajankin ohjelmointityyliä \cite{Roberts95}. Ohjaajana toimiminen opettaa vastuukantoa ja liittää opiskelijan paremmin mukaan yliopiston yhteisöön \cite{Dickson11}. Ohjaajat voivat saada toisistaan seuraa ja osallistua keskenään erilaisiin vapaa-ajan aktiviteetteihin \cite{Roberts95}.
 \\
 Kun luennoija esittelee kurssin sisällön ohjaajille, hän saa tilaisuuden käydä opetettava materiaali läpi ennen sen esittämistä luennolla \cite{Kopp00}.
 

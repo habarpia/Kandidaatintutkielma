@@ -483,7 +483,7 @@ Year = {2008}
 
 
 
-@article{harper02,
+@article{Harper02,
 author = {Kathleen Andre Harper and David B. May and Keith W. Oliver},
 collaboration = {},
 title = {Using Undergraduate Students as Physics Lab Teaching Assistants},
@@ -509,4 +509,32 @@ Number = {4},
 Pages = {200-203}, 
 Month = {July}, 
 Year = {1994} 
+}
+
+
+
+@inproceedings{Stewart06,
+Author = "Gay Stewart", 
+Title = {Undergraduate Learning Assistants: A powerful way to improve student learning and recruit future teachers}, 
+BookTitle = {2006 PTEC National Conference}, 
+Address = {Fayetteville, Arkansas}, 
+Series = {PTEC}, 
+Month = {March 24-25}, 
+Year = {2006} 
+}
+
+
+@article{Kurhila,
+Author = "Kurhila, Jaakko and Vihavainen, arto",
+Title = {Management, Structures and Tools to Scale up Personal Advising in Large Programming Courses}
+}
+
+@article{Vihavainen,
+Author = "Vihavainen, Arto and Vikberg, Thomas and Luukkainen, Matti and Kurhila, Jaakko",
+Title = {Massive Increase in Eager TAs: Experiences from Extreme Apprenticeship-based CS1}
+}
+
+@article{Vikberg,
+Author = "Vikberg, Thomas and Vihavainen, Arto and Luukkainen, Matti and Kurhila, Jaakko",
+Title =  {Early Start in Software Coaching}
 }
