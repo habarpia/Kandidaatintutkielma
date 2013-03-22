@@ -524,10 +524,23 @@ Year = {2006}
 }
 
 
-@article{Kurhila,
-Author = "Kurhila, Jaakko and Vihavainen, arto",
-Title = {Management, Structures and Tools to Scale up Personal Advising in Large Programming Courses}
-}
+@inproceedings{Kurhila11,
+ author = {Kurhila, Jaakko and Vihavainen, Arto},
+ title = {Management, structures and tools to scale up personal advising in large programming courses},
+ booktitle = {Proceedings of the 2011 conference on Information technology education},
+ series = {SIGITE '11},
+ year = {2011},
+ isbn = {978-1-4503-1017-8},
+ location = {West Point, New York, USA},
+ pages = {3--8},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/2047594.2047596},
+ doi = {10.1145/2047594.2047596},
+ acmid = {2047596},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {continuous feedback, course cost, individual education, instructional design, programming education, resource allocation},
+} 
 
 @article{Vihavainen,
 Author = "Vihavainen, Arto and Vikberg, Thomas and Luukkainen, Matti and Kurhila, Jaakko",
@@ -538,3 +551,127 @@ Title = {Massive Increase in Eager TAs: Experiences from Extreme Apprenticeship-
 Author = "Vikberg, Thomas and Vihavainen, Arto and Luukkainen, Matti and Kurhila, Jaakko",
 Title =  {Early Start in Software Coaching}
 }
+
+
+@article{Astrachan95,
+ author = {Astrachan, Owen and Reed, David},
+ title = {AAA and CS 1: the applied apprenticeship approach to CS 1},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 1995},
+ volume = {27},
+ number = {1},
+ month = mar,
+ year = {1995},
+ issn = {0097-8418},
+ pages = {1--5},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/199691.199694},
+ doi = {10.1145/199691.199694},
+ acmid = {199694},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@article{Manaris07,
+ author = {Manaris, Bill},
+ title = {Dropping CS enrollments: or the emperor's new clothes?},
+ journal = {SIGCSE Bull.},
+ issue_date = {December 2007},
+ volume = {39},
+ number = {4},
+ month = dec,
+ year = {2007},
+ issn = {0097-8418},
+ pages = {6--10},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1345375.1345377},
+ doi = {10.1145/1345375.1345377},
+ acmid = {1345377},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+@article{Ardis11,
+ author = {Ardis, Mark A. and Henderson, Peter B.},
+ title = {Software Engineering Education (SEEd)},
+ journal = {SIGSOFT Softw. Eng. Notes},
+ issue_date = {November 2011},
+ volume = {36},
+ number = {6},
+ month = nov,
+ year = {2011},
+ issn = {0163-5948},
+ pages = {7--8},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/2047414.2047417},
+ doi = {10.1145/2047414.2047417},
+ acmid = {2047417},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+@article{Roberts99,
+ author = {Roberts, Eric},
+ title = {Conserving the seed corn: reflections on the academic hiring crisis},
+ journal = {SIGCSE Bull.},
+ issue_date = {Dec. 1999},
+ volume = {31},
+ number = {4},
+ month = dec,
+ year = {1999},
+ issn = {0097-8418},
+ pages = {4--9},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/349522.349363},
+ doi = {10.1145/349522.349363},
+ acmid = {349363},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+@article{Baldwin00,
+ author = {Baldwin, Doug},
+ title = {Some thoughts on undergraduate teaching and the Ph.D.},
+ journal = {SIGCSE Bull.},
+ issue_date = {Dec. 2000},
+ volume = {32},
+ number = {4},
+ month = dec,
+ year = {2000},
+ issn = {0097-8418},
+ pages = {60--62},
+ numpages = {3},
+ url = {http://doi.acm.org/10.1145/369295.369327},
+ doi = {10.1145/369295.369327},
+ acmid = {369327},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+@article{Chamillard02,
+ author = {Chamillard, A. T. and Merkle, Laurence D.},
+ title = {Management challenges in a large introductory computer science course},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 2002},
+ volume = {34},
+ number = {1},
+ month = feb,
+ year = {2002},
+ issn = {0097-8418},
+ pages = {252--256},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/563517.563440},
+ doi = {10.1145/563517.563440},
+ acmid = {563440},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Large courses, course management, introductory computer science, introductory courses},
+} 
