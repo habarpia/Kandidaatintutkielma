@@ -675,3 +675,49 @@ Title =  {Early Start in Software Coaching}
  address = {New York, NY, USA},
  keywords = {Large courses, course management, introductory computer science, introductory courses},
 } 
+
+
+
+@article{Kay95,
+ author = {Kay, David G.},
+ title = {Training computer science teaching assistants: a seminar for new TAs},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 1995},
+ volume = {27},
+ number = {1},
+ month = mar,
+ year = {1995},
+ issn = {0097-8418},
+ pages = {53--55},
+ numpages = {3},
+ url = {http://doi.acm.org/10.1145/199691.199719},
+ doi = {10.1145/199691.199719},
+ acmid = {199719},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {graduate student support, teacher training, teaching assistants},
+} 
+
+@article{Yadin11,
+ author = {Yadin, Aharon},
+ title = {Reducing the dropout rate in an introductory programming course},
+ journal = {ACM Inroads},
+ issue_date = {December 2011},
+ volume = {2},
+ number = {4},
+ month = dec,
+ year = {2011},
+ issn = {2153-2184},
+ pages = {71--76},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/2038876.2038894},
+ doi = {10.1145/2038876.2038894},
+ acmid = {2038894},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {introductory programming course, reducing dropout},
+}
+
+
+
+
