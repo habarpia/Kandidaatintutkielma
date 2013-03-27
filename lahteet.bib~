@@ -819,3 +819,25 @@ Title =  {Early Start in Software Coaching}
  address = {New York, NY, USA},
  keywords = {computer labs, program design, students, training},
 } 
+
+
+
+
+@inproceedings{Patitsas12,
+ author = {Patitsas, Elizabeth},
+ title = {A case study of environmental factors influencing teaching assistant job satisfaction},
+ booktitle = {Proceedings of the ninth annual international conference on International computing education research},
+ series = {ICER '12},
+ year = {2012},
+ isbn = {978-1-4503-1604-0},
+ location = {Auckland, New Zealand},
+ pages = {11--16},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/2361276.2361280},
+ doi = {10.1145/2361276.2361280},
+ acmid = {2361280},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {computer science education, labs, teaching assistants},
+} 
+
