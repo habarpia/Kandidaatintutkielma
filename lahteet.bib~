@@ -842,7 +842,10 @@ Title =  {Early Start in Software Coaching}
 } 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 198ddadf9b8f820afaf4dd7802fc655ac18efa4b
 @INPROCEEDINGS{Mark11,
 author={Mark, K. and Thadani, D.R. and Calonge, D.S. and Pun, C.F.K. and Chiu, P.H.P.},
 booktitle={Frontiers in Education Conference (FIE), 2011}, title={In-service Teaching Assistant Training (InsTAT) for engineering and computer science graduate students in Hong Kong: A blended-learning approach},
@@ -851,3 +854,21 @@ pages={F2E-1-F2E-6},
 keywords={computer based training;educational courses;educational institutions;teaching;English as the medium of instruction;Hong Kong;active learning strategy;blended learning approach;computer science graduate student;e-learning technology;engineering graduate student;in-service teaching assistant training;learning support;multidirectional engagement team teaching approach;role transformation;student-centered approach;teaching support;tertiary institution;university decision makers;Cities and towns;Conferences;Educational institutions;Electronic learning;Portfolios;Training;Teaching Assistant training;e-learning;multi-directional engagement team teaching;outcome based teaching and learning},
 doi={10.1109/FIE.2011.6142930},
 ISSN={0190-5848},}
+<<<<<<< HEAD
+
+
+@article{Park04,
+author = {Park * , Chris},
+title = {The graduate teaching assistant (GTA): lessons from North American experience},
+journal = {Teaching in Higher Education},
+volume = {9},
+number = {3},
+pages = {349-361},
+year = {2004},
+doi = {10.1080/1356251042000216660},
+
+URL = {http://www.tandfonline.com/doi/abs/10.1080/1356251042000216660},
+eprint = {http://www.tandfonline.com/doi/pdf/10.1080/1356251042000216660}
+}
+=======
+>>>>>>> 198ddadf9b8f820afaf4dd7802fc655ac18efa4b
