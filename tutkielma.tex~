@@ -67,7 +67,7 @@ Vaikka opiskelijoita on hyödynnetty tietojenkäsittelytieteen opetuksessa jo pi
 Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia. Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
 
 \subsection{Pula opettajista}
-Tietojenkäsittelytieteen alaa on vaivannut puute pätevistä opettajista \cite{Roberts99}. Teollisuuden menestys houkuttelee opiskelijat jättämään opintonsa ja siirtymään töihin, jolloin on yhä vaikeampi kouluttaa uusia opettajia. Työvoimapula aiheuttaa ylitöitä ja stressiä opettajille, mikä lisää heidän ovat halukkuuttaan siirtyä muihin töihin. Opettajien puute vaikeuttaa kasvaviin opiskelijamääriin vastaamista.
+Tietojenkäsittelytieteen alaa on vaivannut puute pätevistä opettajista \cite{Roberts99}. Teollisuuden menestys houkuttelee opiskelijat jättämään opintonsa ja siirtymään töihin, jolloin on yhä vaikeampi kouluttaa uusia opettajia. Työ\-voi\-ma\-pu\-la aiheuttaa ylitöitä ja stressiä opettajille, mikä lisää heidän ovat halukkuuttaan siirtyä muihin töihin. Opettajien puute vaikeuttaa kasvaviin opiskelijamääriin vastaamista.
 
 \subsection{Suurten luentojen ongelmat}
 
@@ -160,8 +160,8 @@ Ohjaajat saavat palkkaa tai opintopisteitä, minkä lisäksi opettaminen paranta
 Kun luennoija esittelee kurssin sisällön ohjaajille, hän saa tilaisuuden käydä opetettava materiaali läpi ennen sen esittämistä luennolla \cite{Kopp00}.
 
 
-\subsection{Haittoja}
-On pelätty, että uusien ja vähän koulutettujen opiskelijoiden käyttäminen ohjaajina ei olisi hyödyllistä opetettaville \cite{Harper02}. Aiheesta kirjoitetut artikkelit kuitenkin väittävät, että hyvän ohjaajan ei tarvitse olla opinnoissaan kovin paljoa edellä opetettaviaan.
+\subsection{Haasteita}
+On pelätty, että uusien ja vähän koulutettujen opiskelijoiden käyttäminen ohjaajina ei olisi hyödyllistä opetettaville \cite{Harper02}. Ohjaajien puutteellinen kokemus tai koulutus opetuksesta voi vaikeuttaa ohjausta tai epäonnistumisen pelkoa ohjaajille \cite{Mark11}. Aiheesta kirjoitetut artikkelit kuitenkin väittävät, että hyvän ohjaajan ei tarvitse olla opinnoissaan kovin paljoa edellä opetettaviaan. 
 \\
 Vaikka ohjaajat pääasiassa hyötyvät siitä, että he ovat suurin piirtein saman ikäisiä kuin opetettavansa, voi siitä seurata myös ongelmia tehtävien arvostelun suhteen. Koska ohjaajalla ei mahdollisesti ole paljon kokemusta tai auktoriteettia, voi hänen olla vaikea käsitellä opiskelijoita, jotka ovat mielestään saaneet liian huonon arvosanan. Ohjaajilla pitäisikin olla selvät ohjeet tehtävien pisteyttämisen suhteen kiistatilanteiden varalta \cite{Roberts95}. Toisaalta jos pidetään tärkeänä sitä, että opiskelijat mieltävät ohjaajat vertaisekseen, voi olla parempi, että ohjaajat eivät osallistu tehtävien pisteyttämiseen ja opiskelijoiden arvosteluun \cite{Morgan02}.
 \\
