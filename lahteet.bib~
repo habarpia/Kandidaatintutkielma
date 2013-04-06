@@ -1158,3 +1158,25 @@ language={English}
  address = {New York, NY, USA},
  keywords = {CS1, closed-laboratories, computer science education research, instructional design},
 } 
+
+
+
+@article{Boyer07,
+ author = {Boyer, Kristy Elizabeth and Dwight, Rachael S. and Miller, Carolyn S. and Raubenheimer, C. Dianne and Stallmann, Matthias F. and Vouk, Mladen A.},
+ title = {A case for smaller class size with integrated lab for introductory computer science},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 2007},
+ volume = {39},
+ number = {1},
+ month = mar,
+ year = {2007},
+ issn = {0097-8418},
+ pages = {341--345},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1227504.1227430},
+ doi = {10.1145/1227504.1227430},
+ acmid = {1227430},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {active learning, assessment, class size, introductory computer science, pipeline, underrepresented groups},
+} 
