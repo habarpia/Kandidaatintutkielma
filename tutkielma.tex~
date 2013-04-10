@@ -118,7 +118,7 @@ Pareittain työskenteleminen parantaa ohjaajien suoritusta \cite{Patitsas12_3}. 
 
 \subsection{Ohjaajien koulutus}
 
-Uusien ohjaajien kouluttamiseen voi kuulua erillinen tietojenkäsittelytieteen opettamiseen keskittyvä kurssi \cite{Reges88, Roberts95}.  Myös teollisuuden edustajat voivat olla kiinnostuneita kouluttamaan ohjaajia \cite{Morgan02}.
+Uusien ohjaajien kouluttamiseen voi kuulua erillinen tietojenkäsittelytieteen opettamiseen keskittyvä kurssi \cite{Reges88, Roberts95} tai aloitusseminaari \cite{Sperry08}.  Myös teollisuuden edustajat voivat olla kiinnostuneita kouluttamaan ohjaajia \cite{Morgan02}.
 \\
 Ohjaajien kouluttamiseen liittyy usein keskustelutilaisuuksia. Niissä voidaan esimerkiksi harjoitella tehtävien pisteyttämistä, vaikeiden käsitteiden opettamista tai hankalien opiskelijoiden käsittelyä \cite{Reges03}. Koulutuksessa voidaan käydä läpi erilaisia oppimistyylejä ja keskustella, millainen on hyvä tai huono ohjaaja \cite{Kay95}. Uudet ohjaajat voivat pitää harjoitusesitelmiä toisilleen, mistä he saavat esiintymiskokemusta ja palautetta. Useita erilaisia esitelmiä nähdessään ohjaajat voivat oppia uusia lähestymistapoja aiheeseen. Ohjaajat voivat harjoitella tehtävien ja kokeiden tekemistä. Ohjaajille voidaan antaa tehtäväksi keskustella, millaisen tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen alkeiskurssin he suunnittelisivat. Kurssin suunnitteleminen itse voi saada ohjaajat ajattelemaan tietojenkäsittelytieteen opetukseen liittyviä laajoja kysymyksiä, kuten mitä sivuaineopiskelijoiden tulisi alasta oppia, tai millaiset pohjatiedot uusilla opiskelijoilla voi olettaa tietojenkäsittelytieteestä olevan. 
 \\
@@ -171,7 +171,7 @@ Kun luennoija esittelee kurssin sisällön ohjaajille, hän saa tilaisuuden käy
 \subsection{Haasteita}
 On pelätty, että uusien ja vähän koulutettujen opiskelijoiden käyttäminen ohjaajina ei olisi hyödyllistä opetettaville \cite{Harper02}. Ohjaajien puutteellinen kokemus tai koulutus opetuksesta voi vaikeuttaa ohjausta tai epäonnistumisen pelkoa ohjaajille \cite{Mark11}. Aiheesta kirjoitetut artikkelit kuitenkin väittävät, että hyvän ohjaajan ei tarvitse olla opinnoissaan kovin paljoa edellä opetettaviaan. 
 \\
-Vaikka ohjaajat pääasiassa hyötyvät siitä, että he ovat suurin piirtein saman ikäisiä kuin opetettavansa, voi siitä seurata myös ongelmia tehtävien arvostelun suhteen. Koska ohjaajalla ei mahdollisesti ole paljon kokemusta tai auktoriteettia, voi hänen olla vaikea käsitellä opiskelijoita, jotka ovat mielestään saaneet liian huonon arvosanan. Ohjaajilla pitäisikin olla selvät ohjeet tehtävien pisteyttämisen suhteen kiistatilanteiden varalta \cite{Roberts95}. Toisaalta jos pidetään tärkeänä sitä, että opiskelijat mieltävät ohjaajat vertaisekseen, voi olla parempi, että ohjaajat eivät osallistu tehtävien pisteyttämiseen ja opiskelijoiden arvosteluun \cite{Morgan02}.
+Vaikka ohjaajat pääasiassa hyötyvät siitä, että he ovat suurin piirtein saman ikäisiä kuin opetettavansa, voi siitä seurata myös ongelmia tehtävien arvostelun suhteen. Koska ohjaajalla ei mahdollisesti ole paljon kokemusta tai auktoriteettia, voi hänen olla vaikea käsitellä opiskelijoita, jotka ovat mielestään saaneet liian huonon arvosanan. Ohjaajilla pitäisikin olla selvät ohjeet tehtävien pisteyttämisen suhteen kiistatilanteiden varalta \cite{Roberts95}. Toisaalta jos pidetään tärkeänä sitä, että opiskelijat mieltävät ohjaajat vertaisekseen, voi olla parempi, että ohjaajat eivät osallistu tehtävien pisteyttämiseen ja opiskelijoiden arvosteluun \cite{Morgan02}. Jotkut opiskelijat voivat pitää epämiellyttävänä sitä, että heitä opettaa heitä itseään huomattavasti nuorempi ohjaaja \cite{Sperry08}.
 \\
 Ohjaajien palkitseminen opintopisteillä palkan sijaan on jakanut mielipiteitä. Vaikka muillakin tieteenaloilla opiskelijoita palkitaan opintopisteillä tutkimusprojekteihin osallistumisesta, on esitetty, että opettamiseen osallistuminen ei olisi yhtä arvokasta kuin tutkimukseen osallistuminen \cite{Reges88}.
 \\
@@ -180,7 +180,8 @@ Jatkuva vaihtelu opettajan ja opiskelijan roolin välillä voi olla rasittavaa o
 Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksessa. Säädökset voivat esimerkiksi kieltää opiskelijoita arvostelemasta saman asteen opiskelijoiden tehtäviä varmistaakseen, että yliopistot eivät laiminlyö velvollisuuksiaan arvostelussa. Säädökset voivat myös kieltää liian pienet kurssit. Vaikka jollakin tietojenkäsittelytieteen alkeiskurssilla olisi valtavat määrät opiskelijoita, jos heidät on jaettu pieniin ryhmiin, voi yksi iso kurssi tilastollisesti näyttää monelta pieneltä \cite{Reges03}.
 \\
 Koulutuksen ja kokemuksen puutteen takia ympäristön häiriöt voivat haitata ohjaajan työskentelyä koenutta opettajaa enemmän \cite{Patitsas12_3}. Esimerkiksi luokkahuoneen valaistus, pöytien järjestely ja opetustilanteen kesto vaikuttavat ohjaajan työhön.
-
+\\
+Aina ohjaajille ei ole tarjolla tarvittavaa koulutusta \cite{Shannon98}. Syitä koulutuksen puutteeseen voivat olla rahan tai henkilökunnan puute tai ajatus, että ohjaajat eivät tarvitse koulutusta. Henkilökunnalta voi puuttua kiinnostusta tai taitoa avustaa ohjaajia.
 
 
 
