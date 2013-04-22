@@ -58,13 +58,14 @@ Ongelmaa voi ratkaista kehittämällä yhteistyötä teollisuuden kanssa, koska 
 \\
 Kolmas ratkaisu ongelmaan on hyödyntää opiskelijoita opetuksessa, mihin tässä tutkielmassa keskitytään. Monet yliopistot ovat päättäneet hyödyntää opiskelijoita kurssien opetukseen, sillä he ovat halvempia kuin pitkälle koulutettu työvoima. Taloudellisen edun lisäksi opiskelijoiden on havaittu olevan hyödyllisiä monella muullakin tavalla, sillä opiskelijoiden käytön ohjaajina on havaittu esimerkiksi nostavan opetuksen laatua ja parantavan kurssin ilmapiiriä.
 \\
+Tässä artikkelissa käsittelemme opiskelijoiden käyttämistä tietojenkäsittelytieteen opetuksessa. 
+\\
 Vaikka opiskelijoita on hyödynnetty tietojenkäsittelytieteen opetuksessa jo pitkään, aihetta on tutkittu niukasti. Opiskelijoiden käyttämistä ohjaajina käsittelevät artikkelit antavat usein yksipuolisen myönteisen kuvan aiheesta, koska mahdollisista haitoista tai huonosti toimivan toteutuksen riskeistä on kirjoitettu vain vähän. 
-
 
 \section{Muutokset tietojenkäsittelytieteen opetuksessa}
 
 \subsection{Opiskelijamäärien kasvu}
-Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia. Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
+Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Stanfordin yliopistossa tietojenkäsittelytieteen opiskelijoiden määrä nousi 3907:stä 11140:een vuosina 1974-1985\cite{Reges 88}. Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia \cite{Roberts11}. Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
 
 \subsection{Pula opettajista}
 Tietojenkäsittelytieteen alaa on vaivannut puute pätevistä opettajista \cite{Roberts99}. Teollisuuden menestys houkuttelee opiskelijat jättämään opintonsa ja siirtymään töihin, jolloin on yhä vaikeampi kouluttaa uusia opettajia. Työ\-voi\-ma\-pu\-la aiheuttaa ylitöitä ja stressiä opettajille, mikä lisää heidän ovat halukkuuttaan siirtyä muihin töihin. Opettajien puute vaikeuttaa kasvaviin opiskelijamääriin vastaamista.
@@ -163,7 +164,7 @@ Koordinaattorien kuuluu myös järjestää tapaamisia, joissa käydään läpi o
 \subsection{Hyötyjä}
 
 \subsubsection{Yliopistolle}
-Opiskelijoiden käyttämisestä ohjaajina on taloudellista etua yliopistolle, sillä heille maksettava palkka on yleensä matalampi kuin kokeneemmille assistenteille, tai heidät palkitaan opintopisteillä \cite{Reges88}.
+Opiskelijoiden käyttämisestä ohjaajina on taloudellista etua yliopistolle, sillä heille maksettava palkka on yleensä matalampi kuin kokeneemmille assistenteille, tai heidät palkitaan opintopisteillä \cite{Reges88}. Arizonan yliopistossa uusien opiskelijoiden palkkaaminen ohjaajiksi kokeneiden assistenttien sijaan laski kustannuksia 85 000 dollarista 75 000 dollariin. Hankkeen alkuvaiheessa säästöt olivat jopa 30 prosenttia, koska 
 \\
 Ryhmänohjaajien käyttäminen voi toimia koulutuksena ja innoituksena uusille luennoijoille yliopiston tulevaisuudessa \cite{Roberts95, Morgan02}. Ryhmänohjaajia ohjaavat opettajat saavat tilaisuuden vaikuttaa ohjaajien näkemykseen opetusalasta \cite{Morgan02}. 
 
@@ -215,7 +216,7 @@ Aina ohjaajille ei ole tarjolla tarvittavaa koulutusta \cite{Shannon98}. Syitä 
 
 
 \section{Yhteenveto}
-Tässä artikkelissa käsittelimme opiskelijoiden hyödyntämistä tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetuksessa. Opiskelijoiden käyttö opetuksessa mahdollistaa suurempien opiskelijamäärien opettamisen ilman, että kustannukset nousevat tai että olisi turvauduttava passiivisiin massaluentoihin. Ohjaajien käyttö antaa mahdollisuuden tarjota opiskelijoille aiempaa enemmän yksilöllistä palautetta ja neuvontaa, mikä nostaa opetuksen laatua. Ohjaajana toimiminen antaa opiskelijalle hyödyllisiä taitoja ja kokemusta, ja ohjaajien läsnäolo kursseilla rentouttaa kurssin ilmapiiriä ja tarjoaa opiskelijoille helposti lähestyttäviä roolimalleja. Opiskelijoiden hyödyntämisen opetuksessa on havaittu toimivan niin suurissa kuin pienissäkin oppilaitoksissa.
+Tässä artikkelissa käsittelimme opiskelijoiden hyödyntämistä tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetuksessa. Opiskelijoiden käyttö opetuksessa mahdollistaa suurempien opiskelijamäärien opettamisen ilman, että kustannukset nousevat tai että olisi turvauduttava passiivisiin massaluentoihin. Ohjaajien käyttö antaa mahdollisuuden tarjota opiskelijoille aiempaa enemmän yksilöllistä palautetta ja neuvontaa, mikä nostaa opetuksen laatua. Ohjaajat työskentelevät lähellä opiskelijoita, joten he pystyvät antamaan luennoijalle palautetta kurssin etenemisestä. Ohjaajana toimiminen antaa opiskelijalle hyödyllisiä taitoja ja kokemusta, ja ohjaajien läsnäolo kursseilla rentouttaa kurssin ilmapiiriä ja tarjoaa opiskelijoille helposti lähestyttäviä roolimalleja. Opiskelijoiden hyödyntämisen opetuksessa on havaittu toimivan niin suurissa kuin pienissäkin oppilaitoksissa.
 
 
 \bibliographystyle{babplain}
