@@ -38,14 +38,15 @@
 
 \keywords{avainsana 1, avainsana 2, avainsana 3}
 \classification{}
-\thispagestyle{empty}
+
 
 \begin{document}
 
 \maketitle
 \makeabstract
-
+\thispagestyle{empty}
 \tableofcontents
+\thispagestyle{empty}
 \newpage
 
 \setcounter{page}{1}
