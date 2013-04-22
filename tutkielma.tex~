@@ -38,6 +38,7 @@
 
 \keywords{avainsana 1, avainsana 2, avainsana 3}
 \classification{}
+\thispagestyle{empty}
 
 \begin{document}
 
@@ -47,7 +48,7 @@
 \tableofcontents
 \newpage
 
-
+\setcounter{page}{1}
 
 
 
@@ -213,7 +214,7 @@ Koulutuksen ja kokemuksen puutteen takia ympäristön häiriöt voivat haitata o
 \\
 Aina ohjaajille ei ole tarjolla tarvittavaa koulutusta \cite{Shannon98}. Syitä koulutuksen puutteeseen voivat olla rahan tai henkilökunnan puute tai ajatus, että ohjaajat eivät tarvitse koulutusta. Henkilökunnalta voi puuttua kiinnostusta tai taitoa avustaa ohjaajia.
 \\
-Jos tutkimusavustajana toimimista pidetään arvokkaampana toimintana kuin opettamista, \cite{Shannon98}.
+Jos tutkimusavustajana toimimista pidetään arvokkaampana toimintana kuin opettamista, opiskelijat voivat olla kiinnostuneempia tutkimukseen pyrkimisestä kuin ohjaajana toimimisesta \cite{Shannon98}. Usein tutkimusavustajia rahoitetaan ohjaajia paremmin ja heillä on enemmän tilaisuuksia työskennellä yliopiston henkilökunnan kanssa. Uhkana voi olla, että parhaat opiskelijat päätyvät tutkimusavustajiksi opettamisen sijaan.
 
 
 \section{Yhteenveto}
