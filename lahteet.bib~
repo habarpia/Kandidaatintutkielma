@@ -1244,3 +1244,154 @@ doi = {10.1080/10511970308984047},
 URL = {http://www.tandfonline.com/doi/abs/10.1080/10511970308984047},
 eprint = {http://www.tandfonline.com/doi/pdf/10.1080/10511970308984047}
 }
+
+
+
+
+@article{Chamillard02b,
+ author = {Chamillard, A. T. and Merkle, Laurence D.},
+ title = {Evolution of an introductory computer science course: the long haul},
+ journal = {J. Comput. Sci. Coll.},
+ issue_date = {October 2002},
+ volume = {18},
+ number = {1},
+ month = oct,
+ year = {2002},
+ issn = {1937-4771},
+ pages = {144--153},
+ numpages = {10},
+ url = {http://dl.acm.org/citation.cfm?id=771141.771169},
+ acmid = {771169},
+ publisher = {Consortium for Computing Sciences in Colleges},
+ address = {USA},
+} 
+
+
+
+
+@inproceedings{Hertz10,
+ author = {Hertz, Matthew},
+ title = {What do "CS1" and "CS2" mean?: investigating differences in the early courses},
+ booktitle = {Proceedings of the 41st ACM technical symposium on Computer science education},
+ series = {SIGCSE '10},
+ year = {2010},
+ isbn = {978-1-4503-0006-3},
+ location = {Milwaukee, Wisconsin, USA},
+ pages = {199--203},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1734263.1734335},
+ doi = {10.1145/1734263.1734335},
+ acmid = {1734335},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {cs1, cs2, curriculum design, survey},
+} 
+
+
+
+
+@inproceedings{Baumstark13,
+ author = {Baumstark, Lewis and Rudolph, Edwin},
+ title = {Automated online grading for virtual machine-based systems administration courses},
+ booktitle = {Proceeding of the 44th ACM technical symposium on Computer science education},
+ series = {SIGCSE '13},
+ year = {2013},
+ isbn = {978-1-4503-1868-6},
+ location = {Denver, Colorado, USA},
+ pages = {477--482},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/2445196.2445340},
+ doi = {10.1145/2445196.2445340},
+ acmid = {2445340},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {automated grading, networking, online grading, systems administration, virtual machines},
+} 
+
+
+
+
+@article{Fu08,
+ author = {Fu, Xiang and Peltsverger, Boris and Qian, Kai and Tao, Lixin and Liu, Jigang},
+ title = {APOGEE: automated project grading and instant feedback system for web based computing},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 2008},
+ volume = {40},
+ number = {1},
+ month = mar,
+ year = {2008},
+ issn = {0097-8418},
+ pages = {77--81},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/1352322.1352163},
+ doi = {10.1145/1352322.1352163},
+ acmid = {1352163},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {automated grading, test case generation, web application},
+} 
+
+
+
+@article{Forsythe65,
+ author = {Forsythe, George E. and Wirth, Niklaus},
+ title = {Automatic grading programs},
+ journal = {Commun. ACM},
+ issue_date = {May 1965},
+ volume = {8},
+ number = {5},
+ month = may,
+ year = {1965},
+ issn = {0001-0782},
+ pages = {275--278},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/364914.364937},
+ doi = {10.1145/364914.364937},
+ acmid = {364937},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+
+@article{Kay94,
+ author = {Kay, David G. and Scott, Terry and Isaacson, Peter and Reek, Kenneth A.},
+ title = {Automated grading assistance for student programs},
+ journal = {SIGCSE Bull.},
+ issue_date = {March 1994},
+ volume = {26},
+ number = {1},
+ month = mar,
+ year = {1994},
+ issn = {0097-8418},
+ pages = {381--382},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/191033.191184},
+ doi = {10.1145/191033.191184},
+ acmid = {191184},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+@article{Hollingsworth60,
+ author = {Hollingsworth, Jack},
+ title = {Automatic graders for programming classes},
+ journal = {Commun. ACM},
+ issue_date = {Oct. 1960},
+ volume = {3},
+ number = {10},
+ month = oct,
+ year = {1960},
+ issn = {0001-0782},
+ pages = {528--529},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/367415.367422},
+ doi = {10.1145/367415.367422},
+ acmid = {367422},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
