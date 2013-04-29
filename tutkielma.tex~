@@ -54,11 +54,11 @@
 
 
 \section{Johdanto}
-Tietojenkäsittelytieteen opetuksen tarve on kasvanut. Ongelmana on usein taloudellisten resurssien puute, mikä johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia \cite{Roberts11}. Teollisuuden menestys houkuttelee opiskelijoita siirtymään nopeasti työelämään opintojen jatkamisen sijaan, jolloin on yhä vaikeampi saada uusia opettajia uusille tietojenkäsittelytieteen opiskelijoille \cite{Roberts99}.
+Tietojenkäsittelytieteen opetuksen tarve on kasvanut \cite{Roberts11}. Usein taloudellisten resurssien puute kuitenkin johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia. Teollisuuden menestys houkuttelee opiskelijoita siirtymään nopeasti työelämään opintojen jatkamisen sijaan, jolloin on yhä vaikeampi saada uusia opettajia uusille tietojenkäsittelytieteen opiskelijoille \cite{Roberts99}.
 \\
 Ongelmaa voi ratkaista kehittämällä yhteistyötä teollisuuden kanssa, koska sillä on taloudellisia resursseja tukea opetusta \cite{Roberts11}. Toinen ratkaisu on palkata alkeiskursseille mahdollisimman pätevää henkilökuntaa. 
 \\
-Kolmas ratkaisu ongelmaan on hyödyntää opiskelijoita opetuksessa, mihin tässä tutkielmassa keskitytään. Monet yliopistot ovat päättäneet hyödyntää opiskelijoita kurssien opetukseen, sillä he ovat halvempia kuin pitkälle koulutettu työvoima. Taloudellisen edun lisäksi opiskelijoiden on havaittu olevan hyödyllisiä monella muullakin tavalla, sillä opiskelijoiden käytön ohjaajina on havaittu esimerkiksi nostavan opetuksen laatua ja parantavan kurssin ilmapiiriä.
+Kolmas ratkaisu ongelmaan on hyödyntää opiskelijoita opetuksessa. Monet yliopistot ovat päättäneet hyödyntää opiskelijoita kurssien opetukseen, sillä he ovat halvempia kuin pitkälle koulutettu työvoima. Taloudellisen edun lisäksi opiskelijoiden on havaittu olevan hyödyllisiä monella muullakin tavalla, sillä opiskelijoiden käytön ohjaajina on havaittu esimerkiksi nostavan opetuksen laatua ja parantavan kurssin ilmapiiriä.
 \\
 Tässä artikkelissa käsittelemme opiskelijoiden hyödyntämistä tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetuksessa. Esittelemme, millä tavoin opiskelijoita voi käyttää alkeiskurssien ohjaajina, mitä työtehtäviä heillä on ja millaista organisaatiota ohjaajien käyttäminen vaatii. Käsittelemme myös, mitä hyötyjä ja haasteita ohjaajien käyttämisestä on.
 
@@ -68,7 +68,11 @@ Tässä artikkelissa käsittelemme opiskelijoiden hyödyntämistä tie\-to\-jen\
 
 
 \subsection{Opiskelijamäärien kasvu}
-Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Stanfordin yliopistossa tietojenkäsittelytieteen opiskelijoiden määrä nousi 3907:stä 11140:een vuosina 1974-1985\cite{Reges88}. Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia \cite{Roberts11}. Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
+Tietojenkäsittelytieteen opiskelijoiden lukumäärän vaihtelu on syklistä \cite{Roberts11}. Esimerkiksi kotitietokoneiden ja World Wide Webin yleistyminen kasvattivat alan suosiota ja opiskelijoiden määrä kasvoi, kun taas IT-kuplan puhkeaminen 2000-luvun alussa vähensi opiskelijamäärää. Stanfordin yliopistossa tietojenkäsittelytieteen opiskelijoiden määrä nousi 3907:stä 11140:een vuosina 1974-1985\cite{Reges88}. 
+\\
+Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä ajanjaksolla kasvanut, ja teollisuus tarvitsee yhä enemmän osaajia \cite{Roberts11}. IT-kuplan puhkeamisen aiheuttamasta opiskelijakadosta seurasi pula tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen koulutetuista ammattilaisista. Yhdysvaltojen yliopistojen pitäisi pystyä kaksin- tai kolminkertaistamaan tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen valmistuneiden opiskelijoiden määrää, jotta 
+\\
+Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla \cite{Roberts11}. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi siis pystyä järjestämään riittävästi opetusta. 
 
 
 
