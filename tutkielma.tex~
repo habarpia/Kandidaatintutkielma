@@ -2,6 +2,7 @@
 
 
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{microtype}
 \usepackage{amsfonts,amsmath,amssymb,amsthm,booktabs,color,enumitem,graphicx}
@@ -182,7 +183,7 @@ Ohjaajien kouluttamiseen liittyy usein keskustelutilaisuuksia. Niissä voidaan e
 \\
 Kokeneet ohjaajat voivat osallistua uusien ohjaajien koulutukseen kerratakseen omia taitojaan, ja samalla he voivat jakaa kokemustaan ja toimia roolimalleina uusille ohjaajille \cite{Reges88}. Kokeneiden ohjaajien vertaisopetus ja rohkaisu nopeuttaa uusien ohjaajien koulutusta \cite{Decker06}. 
 \\
-Aina muodollista koulutusta ei juuri tarvita tai se ei ole mahdollista, jos uusia ohjaajia hankitaan jatkuvasti opetuksen edetessä. Kokeneet ohjaajat kouluttavat epävirallisesti uusia ohjaajia neuvomalla heitä \cite{Kurhila11}. 
+Aina muodollista koulutusta ei juuri tarvita tai se ei ole mahdollista, jos uusia ohjaajia hankitaan jatkuvasti opetuksen edetessä. Kokeneet ohjaajat voivat kouluttaa epävirallisesti uusia ohjaajia neuvomalla heitä \cite{Kurhila11}. 
 \\
 Kehittyäkseen työssään ohjaajien on tärkeää saada palautetta \cite{Patitsas12, Patitsas12_3}. Myönteinen palaute parantaa ohjaajan itseluottamusta, mikä puolestaan parantaa hänen opetustaitojaan.
 \\
@@ -194,7 +195,7 @@ Vanhat ohjaajat voivat antaa hyödyllistä palautetta ohjaajien koulutuksesta \c
 
 Ohjaajia hyödyntävien kurssien henkilökunnan rakenne vaihtelee kursseittain ja yliopistoittain. Esimerkiksi pienessä yliopistossa voi toimia malli, jossa luennoijan lisäksi kurssin henkilökuntaan kuuluu vain muutama ohjaaja \cite{Dickson11}, kun taas suurissa laitoksissa kursseilla, joilla on paljon opiskelijoita, on hyödyllistä, että kurssin henkilökuntaan kuuluu ohjaajien työtä hallinnoiva assistentti \cite{Reges03}. Assistentti toimii ohjaajien ja luennoijan välisenä kontaktina ja jakaa kurssin materiaalin eteenpäin ohjaajille. Hän voi auttaa luennoijaa kurssin sisällön kanssa. Assistentti voi olla joku kurssin ohjaajista tai erillinen tehtävään palkattu henkilö.
 \\
-Mikäli henkilökuntaa tarvitaan kursseille paljon, ohjaajien käyttäminen tarvitsee usein toimiakseen jonkinlaisen koordinaattorin \cite{Roberts95}. Siinä missä assistentin tehtävä on välittää kurssiin liittyvää tietoa tietyn kurssin luennoijan ja ohjaajien välillä, koordinaattorin kuuluu pitää huolta siitä, että ohjaajatoiminnan rakenne toimii, eli esimerkiksi varmistaa ohjaajien palkkaus ja koulutus. Koordinaattori voi olla esimerkiksi opinnoissaan pitkälle edennyt opiskelija, joka on aiemmin toiminut ryhmänohjaajana. Jos ohjaajia on paljon, voidaan tarvita useampia koordinaattoreita. Ohjaajatoiminnan laadun takaamiseksi jonkun tiedekunnan jäsenen tulisi olla ylimmässä vastuussa .
+Mikäli henkilökuntaa tarvitaan kursseille paljon, ohjaajien käyttäminen tarvitsee usein toimiakseen jonkinlaisen koordinaattorin \cite{Roberts95}. Siinä missä assistentin tehtävä on välittää kurssiin liittyvää tietoa tietyn kurssin luennoijan ja ohjaajien välillä, koordinaattorin kuuluu pitää huolta siitä, että ohjaajatoiminnan rakenne toimii, eli esimerkiksi varmistaa ohjaajien palkkaus ja koulutus. Koordinaattori voi olla esimerkiksi opinnoissaan pitkälle edennyt opiskelija, joka on aiemmin toiminut ryhmänohjaajana. Jos ohjaajia on paljon, voidaan tarvita useampia koordinaattoreita. Ohjaajatoiminnan laadun takaamiseksi jonkun tiedekunnan jäsenen tulisi olla ylimmässä vastuussa koordinaattorien työstä.
 \\
 Koordinaattorin tehtäviin kuuluu kurssin käytännön hallinnointi, eli esimerkiksi luokkahuoneiden varaaminen ja tarvittavien ohjaajien jakaminen kursseille. He myös hoitavat ohjaajien valinnan, palkkaamisen ja kouluttamisen \cite{Reges88,Roberts95}. Koordinaattori voi huomauttaa ohjaajan puutteellisesta toiminnasta \cite{Reges88}.
 \\
