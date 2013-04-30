@@ -1395,3 +1395,31 @@ eprint = {http://www.tandfonline.com/doi/pdf/10.1080/10511970308984047}
  address = {New York, NY, USA},
 } 
 
+
+
+@article{Edwards03,
+ author = {Edwards, Stephen H.},
+ title = {Improving student performance by evaluating how well students test their own programs},
+ journal = {J. Educ. Resour. Comput.},
+ issue_date = {September 2003},
+ volume = {3},
+ number = {3},
+ month = sep,
+ year = {2003},
+ issn = {1531-4278},
+ articleno = {1},
+ url = {http://doi.acm.org/10.1145/1029994.1029995},
+ doi = {10.1145/1029994.1029995},
+ acmid = {1029995},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {agile methods, extreme programming, teaching software testing, test-driven development, test-first coding},
+} 
+
+@article{DeepSurfaceLearning,
+title = {Deep, Surface and Strategic Learning},
+url = {http://www.scu.edu.au/teachinglearning/download.php?doc_id=12877&site_id=301&file_ext=.pdf},
+year = {2013},
+last_edited = {21.1.2013},
+haettu = {30.4.2013},
+}

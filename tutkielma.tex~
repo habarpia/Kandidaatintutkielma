@@ -103,7 +103,7 @@ Kokeiden ja tehtävien tekeminen vaikeutuu oppilasmäärän kasvaessa, jos koete
 \\
 Kurssikoon kasvaessa sen hallinnointi vaikeutuu, mukaan lukien kurssinateriaalin valmistelu ja jakaminen opiskelijoille, neuvonnan tarjoaminen ja henkilökunnan hallinnointi \cite{Chamillard02}. Suurella kurssilla voi olla haasteellista taata, että kaikki opiskelijat arvostellaan tasavertaisesti.
 \\
-Suurten luentojen passiivisella kuuntelemisella ja asioiden ulkoa opettelulla opiskelija voi yltää pintapuoliseen osaamiseen, mutta syvempään osaamiseen vaaditaan aktiivista opiskelua \cite{Boyer07}. 
+Suurten luentojen passiivisella kuuntelemisella ja asioiden ulkoa opettelulla opiskelija voi yltää pintapuoliseen osaamiseen, mutta syvempään osaamiseen vaaditaan aktiivista opiskelua \cite{Boyer07}. Pintapuolisella o\cite{Lublin03}.
 \\
 Passiivinen luentojen kuuntelu ei vastaa tietojenkäsittelytieteen alan työelämää, jossa tarvitaan ongelmanratkaisutaitoja ja kykyä toimia ryhmässä \cite{Vihavainen}.
 
@@ -240,7 +240,7 @@ On pelätty, että uusien ja vähän koulutettujen opiskelijoiden käyttäminen 
 \\
 Uusien opiskelijoiden palkkaaminen ohjaajiksi voi olla taloudellisesti epävarmaa, jos ohjaajat ilmoittavat työtuntinsa viikoittain \cite{Reges03}. Tämän vuoksi on vaikea etukäteen ennustaa tarkkaan, kuinka paljon ohjaajien käyttäminen tulee maksamaan, jolloin päättäjien vakuuttaminen ohjaajien käyttämisen eduista voi olla vaikeaa.
 \\
-Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksessa. Säädökset voivat esimerkiksi kieltää liian pienet kurssit. Vaikka jollakin tietojenkäsittelytieteen alkeiskurssilla olisi valtavat määrät opiskelijoita, jos heidät on jaettu pieniin ryhmiin, voi yksi iso kurssi tilastollisesti näyttää monelta pieneltä \cite{Reges03}. Säädökset voivat myös kieltää opiskelijoita arvostelemasta saman asteen opiskelijoiden tehtäviä varmistaakseen, että yliopistot eivät laiminlyö velvollisuuksiaan arvostelussa. Tätä sääntöä voi kiertää esimerkiksi arvostelemalla tehtävät laadullisesti siltä kannalta, kuinka ohjelma yleisesti ottaen toimii eikä keskittymällä koodin yksityiskohtiin \cite{Dickson11}. Tehtäviä voi tarkistaa myös automaattisesti tietokoneen avulla \cite{Vihavainen}.
+Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksessa. Säädökset voivat esimerkiksi kieltää liian pienet kurssit. Vaikka jollakin tietojenkäsittelytieteen alkeiskurssilla olisi valtavat määrät opiskelijoita, voi kurssi tilastollisesti näyttää monelta pieneltä, jos opiskelijat on jaettu pieniin ryhmiin \cite{Reges03}. Säädökset voivat myös kieltää opiskelijoita arvostelemasta saman asteen opiskelijoiden tehtäviä varmistaakseen, että yliopistot eivät laiminlyö velvollisuuksiaan arvostelussa. Tätä sääntöä voi kiertää esimerkiksi arvostelemalla tehtävät laadullisesti siltä kannalta, kuinka ohjelma yleisesti ottaen toimii eikä keskittymällä koodin yksityiskohtiin \cite{Dickson11}. Tehtäviä voi tarkistaa myös automaattisesti tietokoneen avulla \cite{Vihavainen}.
 \\
 Ohjaajien palkitseminen opintopisteillä palkan sijaan on jakanut mielipiteitä. Vaikka muillakin tieteenaloilla opiskelijoita palkitaan opintopisteillä tutkimusprojekteihin osallistumisesta, on esitetty, että opettamiseen osallistuminen ei olisi yhtä arvokasta kuin tutkimukseen osallistuminen \cite{Reges88}.
 \\
