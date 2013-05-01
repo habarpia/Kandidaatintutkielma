@@ -35,9 +35,13 @@
 \author{Hanna Arpiainen}
 \date{\today}
 \level{Kandidaatin tutkielma}
-\abstract{Kandidaatin tutkielma}
+\abstract{
+Tietojenkäsittelytieteen alkeiskurssien opetuksen tarve on kasvanut ja opetuksen sisältöön on tullut muutoksia. Resurssien puute ja suuriin luentokursseihin liittyvät ongelmat voivat laskea opetuksen tasoa. \par
 
-\keywords{avainsana 1, avainsana 2, avainsana 3}
+Käyttämällä opiskelijoita ohjaajina opetuksen laatua voi nostaa ilman, että kustannukset kohoavat. Ohjaajia voi käyttää erilaisiin työtehtäviin, kuten viikoittaisten keskustelusessioiden johtamiseen, tehtävien tarkistamiseen tai neuvonnan antamiseen. Taloudellisten ja opetuksen laatuun liittyvien hyötyjen lisäksi ohjaajilla on myönteinen vaikutus kurssin ja yliopiston ilmapiiriin, ja ohjaajat saavat toiminnastaan hyödyllistä kokemusta.
+}
+
+\keywords{Oppilaat opettajina, Tietojenkäsittelytieteen opetus, avainsana 3}
 \classification{}
 
 
@@ -250,7 +254,7 @@ On pelätty, että uusien ja vähän koulutettujen opiskelijoiden käyttäminen 
 
 Uusien opiskelijoiden palkkaaminen ohjaajiksi voi olla taloudellisesti epävarmaa, jos ohjaajat ilmoittavat työtuntinsa viikoittain \cite{Reges03}. Tämän vuoksi on vaikea etukäteen ennustaa tarkkaan, kuinka paljon ohjaajien käyttäminen tulee maksamaan, jolloin päättäjien vakuuttaminen ohjaajien käyttämisen eduista voi olla vaikeaa. \par
 
-Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksessa. Säädökset voivat esimerkiksi kieltää liian pienet kurssit. Vaikka jollakin tietojenkäsittelytieteen alkeiskurssilla olisi valtavat määrät opiskelijoita, voi kurssi tilastollisesti näyttää monelta pieneltä, jos opiskelijat on jaettu pieniin ryhmiin \cite{Reges03}. Säädökset voivat myös kieltää opiskelijoita arvostelemasta saman asteen opiskelijoiden tehtäviä varmistaakseen, että yliopistot eivät laiminlyö velvollisuuksiaan arvostelussa. Tätä sääntöä voi kiertää esimerkiksi arvostelemalla tehtävät laadullisesti siltä kannalta, kuinka ohjelma yleisesti ottaen toimii eikä keskittymällä koodin yksityiskohtiin \cite{Dickson11}. Tehtäviä voi tarkistaa myös automaattisesti tietokoneen avulla \cite{Vihavainen}. \par
+Lakisääteiset syyt voivat rajoittaa opiskelijoiden hyödyntämistä opetuksessa. Säädökset voivat esimerkiksi kieltää liian pienet kurssit. Vaikka jollakin tietojenkäsittelytieteen alkeiskurssilla olisi valtavat määrät opiskelijoita, voi kurssi tilastollisesti näyttää monelta pieneltä, jos opiskelijat on jaettu pieniin ryhmiin \cite{Reges03}. Säädökset voivat myös kieltää opiskelijoita arvostelemasta saman asteen opiskelijoiden tehtäviä sen varmistamiseksi, että yliopistot eivät laiminlyö velvollisuuksiaan arvostelussa. Tätä sääntöä voi kiertää esimerkiksi arvostelemalla tehtävät laadullisesti siltä kannalta, kuinka ohjelma yleisesti ottaen toimii eikä keskittymällä koodin yksityiskohtiin \cite{Dickson11}. Tehtäviä voi tarkistaa myös automaattisesti tietokoneen avulla \cite{Vihavainen}. \par
 
 Ohjaajien palkitseminen opintopisteillä palkan sijaan on jakanut mielipiteitä. Vaikka muillakin tieteenaloilla opiskelijoita palkitaan opintopisteillä tutkimusprojekteihin osallistumisesta, on esitetty, että opettamiseen osallistuminen ei olisi yhtä arvokasta kuin tutkimukseen osallistuminen \cite{Reges88}. \par
 
