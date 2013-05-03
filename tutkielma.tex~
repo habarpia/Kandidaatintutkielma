@@ -42,7 +42,7 @@ Käyttämällä opiskelijoita ohjaajina opetuksen laatua voi nostaa ilman, että
 }
 
 \keywords{Oppilaat opettajina, Tietojenkäsittelytieteen opetus}
-\classification{}
+\classification{CS1}
 
 
 \begin{document}
@@ -62,7 +62,7 @@ Käyttämällä opiskelijoita ohjaajina opetuksen laatua voi nostaa ilman, että
 
 
 \section{Johdanto}
-Tietojenkäsittelytieteen opetuksen tarve on kasvanut \cite{Roberts11}. Usein taloudellisten resurssien puute kuitenkin johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia. Teollisuuden menestys houkuttelee opiskelijoita siirtymään nopeasti työelämään opintojen jatkamisen sijaan, jolloin on yhä vaikeampi saada uusia opettajia uusille tietojenkäsittelytieteen opiskelijoille \cite{Roberts99}. \par
+Tietojenkäsittelytieteen opetuksen tarve kasvaa \cite{Roberts11}. Usein taloudellisten resurssien puute kuitenkin johtaa opiskelupaikkojen lukumäärän rajoittamiseen. Lisäksi etenkin 1980-luvulla osaavista opettajista oli pulaa, joten henkilökuntaan jouduttiin palkkaamaan riittämättömästi koulutettuja ulkopuolisia. Teollisuuden menestys houkuttelee opiskelijoita siirtymään nopeasti työelämään opintojen jatkamisen sijaan, jolloin on yhä vaikeampi saada uusia opettajia uusille tietojenkäsittelytieteen opiskelijoille \cite{Roberts99}. \par
 
 Resurssi- ja opettajapulasta seuraavaa ongelmaa voi helpottaa kehittämällä yhteistyötä teollisuuden kanssa, koska sillä on taloudellisia resursseja tukea opetusta \cite{Roberts11}. Toinen ratkaisu on palkata alkeiskursseille mahdollisimman pätevää henkilökuntaa. \par
 
@@ -73,7 +73,7 @@ Tässä artikkelissa käsittelemme opiskelijoiden hyödyntämistä tie\-to\-jen\
 
 \section{Muutokset tietojenkäsittelytieteen opetuksessa}
 
-Opiskelijamäärien vaihtelu, opetustyylien uudistuminen ja pula opettajista ovat aiheuttaneet muutoksia tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetukseen. Lisääntyvistä opiskelijamääristä seuraava kurssikokojen kasvu voi tuoda ongelmia, jotka heikentävät opetuksen laatua.  \par
+Opiskelijamäärien kasvu, opetustyylien uudistuminen ja pula opettajista ovat aiheuttaneet muutoksia tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetukseen. Lisääntyvistä opiskelijamääristä seuraava kurssikokojen kasvu voi tuoda ongelmia, jotka heikentävät opetuksen laatua.  \par
 
 Tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetuksen arvostus on kasvanut, eikä sitä enää pidetä toisarvoisena tutkimukselle \cite{Biggs07}. Monet yliopistot ovat todeneet laadukkaan opetuksen olevan keskeinen osa laitoksen toimintaa ja pyrkineet parantamaan opetusympäristöään. \par
 
@@ -85,6 +85,19 @@ Ajoittaisista taantumisista huolimatta opiskelijoiden määrä on pitkällä aja
 
 Muiden aineiden opiskelijat haluavat opiskella tietojenkäsittelytieteen perusteita, koska he uskovat, että ohjelmointitaidot auttavat heitä työmarkkinoilla \cite{Roberts11}. Tämä lisää tietojenkäsittelytieteen opetuksen tarvetta. Etenkin alkeiskursseille pitäisi pystyä järjestämään riittävästi opetustarjontaa.  \par
 
+Kurssikoon kasvaessa kasvaa myös kurssin tehtävien korjaukseen ja opiskelijoiden henkilökohtaiseen ohjaukseen tarvittava työmäärä \cite{Kay98}. Suurissa opiskelijamäärissä parhaiden ja heikoimpien opiskelijoiden ero voi olla hyvin suuri, joten ääripäät tarvitsisivat erityisen paljon yksilöllistä huomiota. Monilla opiskelijoilla ei ole tietojenkäsittelytieteestä aiempaa kokemusta, ja suuret luennot ja yksin tehtävät harjoitukset voivat tuottaa heille hankaluuksia \cite{Murphy11}. Suurilla luennoilla opiskelijoilla voi olla vaikeuksia keskittyä ja seurata opetusta \cite{Boyer07}. Uusien opiskelijoiden voi olla hankala lähestyä kokenutta luennoijaa \cite{Kopp00}. \par
+
+Se, että opiskelija pääsee opiskeluun mukaan heti opintojen alussa, ehkäisee syrjäytymistä \cite{Settle12}. Aktiivinen osallistuminen ehkäisee opintojen kesken jättämistä \cite{Boyer07}, mutta pelkkä luentojen passiivinen kuuntelu ei rohkaise opiskelijoita osallistumaan \cite{Kopp00}. Yliopisto-opintojen itsenäisyys on uutta monille opiskelijoille, ja heidän on helppo oppia huonoja opiskelutapoja ja olla välittämättä läsnäolon tärkeydestä kursseilla \cite{Kopp00}. Luentoihin painottuvilla kursseilla voi olla vaikeuksia tarjota opiskelijoille roolimalleja, jotka näyttäisivät esimerkillään, kuinka opinnoissa pysyy mukana. \par
+
+Suurten ryhmäkokojen seurauksena opiskelijat uhkaavat hukkua massaan ja voivat sen seurauksena menettää mielenkiintonsa alaa kohtaan \cite{Kay98}. Suurten luentokurssien opiskelijoilla voi olla heikompi itseluottamus omien kykyjensä, opintomenestyksensä tai tietojenkäsittelytieteen hyödyllisyyden tulevaisuudessa suhteen kuin pienryhmissä opiskelevilla \cite{Boyer07}. \par
+
+Kokeiden ja tehtävien tekeminen vaikeutuu oppilasmäärän kasvaessa, jos koetehtävistä halutaan saada mahdollisimman nopeasti tarkistettavia \cite{Kay98}. Tehtävät tulisi olla määritelty mahdollisimman selkeästi, sillä epäselvien kysymysten aiheuttamia väärinymmärryksiä tulee suurten opiskelijamäärien kanssa enemmän.  \par
+
+Kurssikoon kasvaessa sen hallinnointi vaikeutuu, mukaan lukien kurssinateriaalin valmistelu ja jakaminen opiskelijoille, neuvonnan tarjoaminen ja henkilökunnan hallinnointi \cite{Chamillard02}. Suurella kurssilla voi olla haasteellista taata, että kaikki opiskelijat arvostellaan tasavertaisesti. \par
+
+Suurten luentojen passiivisella kuuntelemisella ja asioiden ulkoa opettelulla opiskelija voi yltää pintapuoliseen oppimiseen, mutta syvempään oppimiseen vaaditaan aktiivista opiskelua \cite{Boyer07}. Pintapuolisella oppimisella tarkoitetaan opiskelutapaa, jossa opiskelija keskittyy yksityiskohtiin kokonaisuuden sijasta suoriutuakseen yksittäisistä tehtävistä \cite{DeepSurfaceLearning}. Opiskelu voi olla ylimalkaista eikä välttämättä johda opeteltavan aiheen ymmärtämiseen. Syvässä oppimisessa opiskelija yhdistelee itse aktiivisesti aiemmin oppimaansa ja pyrkii ymmärtämään käsiteltävän asian. Syvässä oppimisessa opiskelija pyrkii kokonaisvaltaiseen ymmärtämiseen, ja se auttaa kehittämään kriittistä ajattelua ja käsitteiden pitkäaikaista muistamista. \par
+
+Passiivinen luentojen kuuntelu ei vastaa tietojenkäsittelytieteen alan työelämää, jossa tarvitaan ongelmanratkaisutaitoja ja kykyä toimia ryhmässä \cite{Vihavainen}. \par
 
 
 \subsection{Muutokset sisällössä}
@@ -102,21 +115,9 @@ Yliopiston päätoimiset opettajat voivat olla kiinnostuneempia opettamaan syven
 
 
 
-\subsection{Suurten kurssien ongelmat}
 
-Kurssikoon kasvaessa kasvaa myös kurssin tehtävien korjaukseen ja opiskelijoiden henkilökohtaiseen ohjaukseen tarvittava työmäärä \cite{Kay98}. Suurissa opiskelijamäärissä parhaiden ja heikoimpien opiskelijoiden ero voi olla hyvin suuri, joten ääripäät tarvitsisivat erityisen paljon yksilöllistä huomiota. Monilla opiskelijoilla ei ole tietojenkäsittelytieteestä aiempaa kokemusta, ja suuret luennot ja yksin tehtävät harjoitukset voivat tuottaa heille hankaluuksia \cite{Murphy11}. Suurilla luennoilla opiskelijoilla voi olla vaikeuksia keskittyä ja seurata opetusta \cite{Boyer07}. Uusien opiskelijoiden voi olla hankala lähestyä kokenutta luennoijaa \cite{Kopp00}. \par
 
-Se, että opiskelija pääsee opiskeluun mukaan heti opintojen alussa, ehkäisee syrjäytymistä \cite{Settle12}. Aktiivinen osallistuminen ehkäisee opintojen kesken jättämistä \cite{Boyer07}, mutta pelkkä luentojen passiivinen kuuntelu ei rohkaise opiskelijoita osallistumaan \cite{Kopp00}. Yliopisto-opintojen itsenäisyys on uutta monille opiskelijoille, ja heidän on helppo oppia huonoja opiskelutapoja ja olla välittämättä läsnäolon tärkeydestä kursseilla \cite{Kopp00}. Luentoihin painottuvilla kursseilla voi olla vaikeuksia tarjota opiskelijoille roolimalleja, jotka näyttäisivät esimerkillään, kuinka opinnoissa pysyy mukana. \par
 
-Suurten ryhmäkokojen seurauksena opiskelijat uhkaavat hukkua massaan ja voivat sen seurauksena menettää mielenkiintonsa alaa kohtaan \cite{Kay98}. Suurten luentokurssien opiskelijoilla voi olla heikompi itseluottamus omien kykyjensä, opintomenestyksensä tai tietojenkäsittelytieteen hyödyllisyyden tulevaisuudessa suhteen kuin pienryhmissä opiskelevilla \cite{Boyer07}. \par
-
-Kokeiden ja tehtävien tekeminen vaikeutuu oppilasmäärän kasvaessa, jos koetehtävistä halutaan saada mahdollisimman nopeasti tarkistettavia \cite{Kay98}. Tehtävät tulisi olla määritelty mahdollisimman selkeästi, sillä epäselvien kysymysten aiheuttamia väärinymmärryksiä tulee suurten opiskelijamäärien kanssa enemmän.  \par
-
-Kurssikoon kasvaessa sen hallinnointi vaikeutuu, mukaan lukien kurssinateriaalin valmistelu ja jakaminen opiskelijoille, neuvonnan tarjoaminen ja henkilökunnan hallinnointi \cite{Chamillard02}. Suurella kurssilla voi olla haasteellista taata, että kaikki opiskelijat arvostellaan tasavertaisesti. \par
-
-Suurten luentojen passiivisella kuuntelemisella ja asioiden ulkoa opettelulla opiskelija voi yltää pintapuoliseen oppimiseen, mutta syvempään oppimiseen vaaditaan aktiivista opiskelua \cite{Boyer07}. Pintapuolisella oppimisella tarkoitetaan opiskelutapaa, jossa opiskelija keskittyy yksityiskohtiin kokonaisuuden sijasta suoriutuakseen yksittäisistä tehtävistä \cite{DeepSurfaceLearning}. Opiskelu voi olla ylimalkaista eikä välttämättä johda opeteltavan aiheen ymmärtämiseen. Syvässä oppimisessa opiskelija yhdistelee itse aktiivisesti aiemmin oppimaansa ja pyrkii ymmärtämään käsiteltävän asian. Syvässä oppimisessa opiskelija pyrkii kokonaisvaltaiseen ymmärtämiseen, ja se auttaa kehittämään kriittistä ajattelua ja käsitteiden pitkäaikaista muistamista. \par
-
-Passiivinen luentojen kuuntelu ei vastaa tietojenkäsittelytieteen alan työelämää, jossa tarvitaan ongelmanratkaisutaitoja ja kykyä toimia ryhmässä \cite{Vihavainen}. \par
 
 
 
@@ -166,20 +167,6 @@ Ohjaajat voivat valvoa kurssikokeita \cite{Richards00}. \par
 
 
 
-\subsection{Millainen on hyvä ohjaaja?}
-Ohjaajalta vaaditaan innostusta auttaa muita oppimaan ja vastuullisuutta noudattaa kurssin käytäntöjä. Ohjaajan ei ole välttämätöntä olla esimerkiksi ohjelmoinnin erityisosaaja, mutta hänen edellytetään ymmärtävän kurssin sisältö ja olevan valmis kehittämään itseään pystyäkseen auttamaan opetettaviaan riittävästi \cite{Reges88}. Ohjaaja voi hyötyä siitä, että hänellä on itsellään ollut oppimisvaikeuksia, sillä se voi auttaa häntä ymmärtämään paremmin opetettaviensa vaikeuksia samojen tehtävien kanssa \cite{Decker06}. \par
-
-Aito kiinnostus opetettavien auttamiseen on keskeistä ohjaajan menestykselle \cite{Richards00}. Ohjaaja, joka on töissä vain palkan tai velvollisuuden vuoksi ja pyrkii pelkkään minimisuoritukseen, ei tue oppimista \cite{Richards00}. Huono ohjaaja ei valmistaudu opetustilaisuuteen riittävästi tai vähättelee opetettaviaan tai opetettavaa materiaalia. Opiskelijat tuntevat tulevansa kohdelluksi epäoikeudenmukaisesti, jos he tietävät, että muilla ryhmillä on parempi ohjaaja kuin heillä. Aluksi heikolta ohjaajalta vaikuttava ehdokas voi osoittautua hyväksi ohjaajaksi, jos hänellä on innostusta kehittyä työssään tai hän saa enemmän itseluottamusta kurssin edetessä \cite{Dickson11}. \par
-
-Ohjaajan voi edellyttää olevan aktiivinen, vaikka opetettavat eivät kysyisi mitään \cite{Vikberg}. Ohjaajan tulee osata huomioida erilaisista taustoista tulevat opiskelijat \cite{Kay98}. Jos ohjaajalla on vastuullaan jokin tietty ryhmä opiskelijoita, hänen tulisi opetella heidän nimensä ja tutustuttava heihin \cite{Bernstein}. \par
-
-Pareittain työskenteleminen parantaa ohjaajien suoritusta \cite{Patitsas12_3}. Ohjaaja sitoutuu tehtäväänsä paremmin, jos hänellä on pari, joka odottaa, että työtehtävät jaetaan tasavertaisesti. Työparin läsnäolo luo turvallisuuden tunnetta, jos ohjaaja voi luottaa siihen, että pari auttaa ja tukee tarvittaessa. Pareittain työskentely parantaa ohjaajien viihtymistä työssään. \par
-
-Ohjaajan olisi osattava opetuskieli hyvin \cite{Richards00}. Kielivaikeuksista seuraa kom\-mu\-ni\-kaa\-tio-on\-gel\-mia, minkä takia opiskelijat eivät välttämättä ymmärrä ohjaajaa. \par
-
-Uudet opiskelijat ovat yleensä parempia ohjaajia kuin vanhemmat, opinnoissaan pidemmälle edenneet opiskelijat \cite{Dickson11}. Uusilla ohjaajilla on muistissaan hyvä kuva kurssin pääasioista, koska he ovat itse käyneet kurssin vasta vähän aikaa sitten. Pitkälle edenneiden opiskelijoiden saattaa olla vaikeaa ymmärtää kurssin materiaalia, opetustekniikkaa tai alkeiskurssien opiskelijoiden ongelmia, ja heidän voi olla vaikeampi ymmärtää laitoksen tietokoneita \cite{Reges88}. Korkealla tutkintoarvolla ei välttämättä ole paljoa yhteistä opetuksen kanssa, ja materiaalin osaaminen on vain yksi osa opetuksesta, joten pitkälle edenneet opinnot eivät takaa menestystä opettajana \cite{Baldwin00}. Uusi ohjaaja oppii nopeasti, millainen on hyvä ohjaaja, mikäli hän on juuri itse ollut ohjattavana \cite{Vihavainen, Vikberg}. Ohjattavien voi olla vaikea suhtautua ohjaajaan, jos tämä on heitä kovin paljon vanhempi \cite{Decker06}. \par
-
-Tohtorin tai maisterin tutkinnon suorittanutta henkilökuntaa voi pitää uusia ja kouluttamattomia opiskelijoita parempana vaihtoehtona ohjaajaksi tai opettajaksi \cite{Baldwin00}. Kokenut opettaja voi helpommin viitata eri kurssien sisältöihin ja kertoa, miten kurssit liittyvät toisiinsa. Näin hän voi auttaa opiskelijoita näkemään materiaalin laajassa mittakaavassa eikä vain kokelmana erillisiä kursseja. Laajat pohjatiedot voivat auttaa opettajaa tunnistamaan ja omaksumaan nopeasti pääkohdat materiaalista, jota hän ei tunne ennalta. Pitkälle koulutettu henkilökunta voi myös toimia roolimallina opiskelijoille, sillä tutkinnon suorittaminen viittaa kykyyn sitoutua tutkimukseen sekä ajatella luovasti ja itsenäisesti. Kokenut opettaja kannustaa opiskelijoita jatkamaan opinnoissaan ja ajattelemaan tietojenkäsittelytiedettä kiinnostavaana tieteenalana teollisuuteen siirtymisen sijaan. Akateemisen uran valitsevat opiskelijat tarvitsevat opinnoista asiantuntevaa neuvontaa, jota osaa parhaiten antaa ohjaaja, jolla on kokemusta aiheesta. Tämä auttaa opettajapulaan. Toisaalta opinnoissaan pitkälle edenneitä opiskelijoita voi olla vaikea houkutella ohjaajiksi, koska tietojenkäsittelytieteen alalla on tarjolla paljon muita työmahdollisuuksia \cite{Kay98}.  \par
 
 
 \subsection{Ohjaajien koulutus}
@@ -214,13 +201,30 @@ Koordinaattorien kuuluu ylläpitää tiedon kulkua ja kommunikointia henkilökun
 Koordinaattorien tehtäviin kuuluu usein myös järjestää tapaamisia, joissa käydään läpi opetukseen liittyviä asioita \cite{Reges88, Roberts95}. Koordinaattori voi kerätä opiskelijoilta palautetta ohjaustilaisuuksista, ja esitellä palautteen ohjaajille henkilökunnan tapaamisessa \cite{Patitsas12_2}. Palautteen avulla koordinaattori voi suunnitella parannuksia seuraavalle lukukaudelle. Ohjaajan voidaan edellyttää kirjoittavan kurssin koordinaattorille työstään viikottainen raportti, jossa hän voi kertoa, mikä viikon opetuksessa meni hyvin ja mikä huonosti, ja miten kurssia voidaan parantaa \cite{Hug11}. \par
 
 
+\subsection{Hyvän ohjaajan ominaisuuksia}
+Ohjaajalta vaaditaan innostusta auttaa muita oppimaan ja vastuullisuutta noudattaa kurssin käytäntöjä. Ohjaajan ei ole välttämätöntä olla esimerkiksi ohjelmoinnin erityisosaaja, mutta hänen edellytetään ymmärtävän kurssin sisältö ja olevan valmis kehittämään itseään pystyäkseen auttamaan opetettaviaan riittävästi \cite{Reges88}. Ohjaaja voi hyötyä siitä, että hänellä on itsellään ollut oppimisvaikeuksia, sillä se voi auttaa häntä ymmärtämään paremmin opetettaviensa vaikeuksia samojen tehtävien kanssa \cite{Decker06}. \par
+
+Aito kiinnostus opetettavien auttamiseen on keskeistä ohjaajan menestykselle \cite{Richards00}. Ohjaaja, joka on töissä vain palkan tai velvollisuuden vuoksi ja pyrkii pelkkään minimisuoritukseen, ei tue oppimista \cite{Richards00}. Huono ohjaaja ei valmistaudu opetustilaisuuteen riittävästi tai vähättelee opetettaviaan tai opetettavaa materiaalia. Opiskelijat tuntevat tulevansa kohdelluksi epäoikeudenmukaisesti, jos he tietävät, että muilla ryhmillä on parempi ohjaaja kuin heillä. Aluksi heikolta ohjaajalta vaikuttava ehdokas voi osoittautua hyväksi ohjaajaksi, jos hänellä on innostusta kehittyä työssään tai hän saa enemmän itseluottamusta kurssin edetessä \cite{Dickson11}. \par
+
+Ohjaajan voi edellyttää olevan aktiivinen, vaikka opetettavat eivät kysyisi mitään \cite{Vikberg}. Ohjaajan tulee osata huomioida erilaisista taustoista tulevat opiskelijat \cite{Kay98}. Jos ohjaajalla on vastuullaan jokin tietty ryhmä opiskelijoita, hänen tulisi opetella heidän nimensä ja tutustuttava heihin \cite{Bernstein}. \par
+
+Pareittain työskenteleminen parantaa ohjaajien suoritusta \cite{Patitsas12_3}. Ohjaaja sitoutuu tehtäväänsä paremmin, jos hänellä on pari, joka odottaa, että työtehtävät jaetaan tasavertaisesti. Työparin läsnäolo luo turvallisuuden tunnetta, jos ohjaaja voi luottaa siihen, että pari auttaa ja tukee tarvittaessa. Pareittain työskentely parantaa ohjaajien viihtymistä työssään. \par
+
+Ohjaajan olisi osattava opetuskieli hyvin \cite{Richards00}. Kielivaikeuksista seuraa kom\-mu\-ni\-kaa\-tio-on\-gel\-mia, minkä takia opiskelijat eivät välttämättä ymmärrä ohjaajaa. \par
+
+Uudet opiskelijat ovat yleensä parempia ohjaajia kuin vanhemmat, opinnoissaan pidemmälle edenneet opiskelijat \cite{Dickson11}. Uusilla ohjaajilla on muistissaan hyvä kuva kurssin pääasioista, koska he ovat itse käyneet kurssin vasta vähän aikaa sitten. Pitkälle edenneiden opiskelijoiden saattaa olla vaikeaa ymmärtää kurssin materiaalia, opetustekniikkaa tai alkeiskurssien opiskelijoiden ongelmia, ja heidän voi olla vaikeampi ymmärtää laitoksen tietokoneita \cite{Reges88}. Korkealla tutkintoarvolla ei välttämättä ole paljoa yhteistä opetuksen kanssa, ja materiaalin osaaminen on vain yksi osa opetuksesta, joten pitkälle edenneet opinnot eivät takaa menestystä opettajana \cite{Baldwin00}. Uusi ohjaaja oppii nopeasti, millainen on hyvä ohjaaja, mikäli hän on juuri itse ollut ohjattavana \cite{Vihavainen, Vikberg}. Ohjattavien voi olla vaikea suhtautua ohjaajaan, jos tämä on heitä kovin paljon vanhempi \cite{Decker06}. \par
+
+Tohtorin tai maisterin tutkinnon suorittanutta henkilökuntaa voi pitää uusia ja kouluttamattomia opiskelijoita parempana vaihtoehtona ohjaajaksi tai opettajaksi \cite{Baldwin00}. Kokenut opettaja voi helpommin viitata eri kurssien sisältöihin ja kertoa, miten kurssit liittyvät toisiinsa. Näin hän voi auttaa opiskelijoita näkemään materiaalin laajassa mittakaavassa eikä vain kokelmana erillisiä kursseja. Laajat pohjatiedot voivat auttaa opettajaa tunnistamaan ja omaksumaan nopeasti pääkohdat materiaalista, jota hän ei tunne ennalta. Pitkälle koulutettu henkilökunta voi myös toimia roolimallina opiskelijoille, sillä tutkinnon suorittaminen viittaa kykyyn sitoutua tutkimukseen sekä ajatella luovasti ja itsenäisesti. Kokenut opettaja kannustaa opiskelijoita jatkamaan opinnoissaan ja ajattelemaan tietojenkäsittelytiedettä kiinnostavaana tieteenalana teollisuuteen siirtymisen sijaan. Akateemisen uran valitsevat opiskelijat tarvitsevat opinnoista asiantuntevaa neuvontaa, jota osaa parhaiten antaa ohjaaja, jolla on kokemusta aiheesta. Tämä auttaa opettajapulaan. Toisaalta opinnoissaan pitkälle edenneitä opiskelijoita voi olla vaikea houkutella ohjaajiksi, koska tietojenkäsittelytieteen alalla on tarjolla paljon muita työmahdollisuuksia \cite{Kay98}.  \par
 
 
 
 
 
 
-\section{Seurauksia}
+
+
+
+\section{Ohjaajien käytön seurauksia}
 
 Opiskelijoiden hyödyntäminen tietojenkäsittelytieteen opetuksessa on mahdollistanut suurempien opiskelijamäärien opettamisen ilman, että kustannukset kohoavat \cite{Reges88}. Samalla opetuksen laatu on noussut, koska opiskelijat saavat aiempaa enemmän yksilöllistä huomiota. Ohjaajilla on myönteinen vaikutus kurssin ja koko yliopiston ilmapiiriin \cite{Dickson11,Roberts95, Tashakkori05}. \par
 
