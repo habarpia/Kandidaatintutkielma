@@ -1433,3 +1433,9 @@ retrieved = {30.4.2013},
   year={2007},
   publisher={McGraw-Hill}
 }
+
+@article{TaulbeeReport,
+title = {Computing Research Association. CRA Taulbee Survey},
+year = {2012},
+url = {http://cra.org/resources/taulbee/},
+}
