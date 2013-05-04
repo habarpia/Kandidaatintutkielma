@@ -143,27 +143,17 @@ Ohjaajilla voi olla keskeinen osa tietojenkäsittelytieteen opetuksessa ja heit�
 
 Ohjaajien tehtäviin kuuluu esimerkiksi viikottaisten keskustelusessioiden pitäminen opiskelijoille \cite{Reges88}. Keskustelusessiossa käydään läpi kurssin sisältöä, mutta sen ei tarvitse noudattaa mitään tiukkaa kaavaa, vaan ohjaaja voi muokata sen vastaamaan opiskelijoiden tarpeita. Ohjaaja voi esimerkiksi kerrata luentojen asioita, esittää lisäesimerkkejä, tai vastata opiskelijoiden esittämiin kysymyksiin. Viikkotapaamisten ei tarvitse olla vain ohjaajan esiintymistä, vaan ne voivat sisältää opiskelijoiden ryhmäkeskusteluja \cite{Decker06}. Tarvittaessa ohjaajan on oltava valmis hylkäämään aiemmat suunnitelmansa, mikäli selviää, että opiskelijat ovat ymmärtäneet jonkin tärkeän asian väärin ja tilanne on korjattava nopeasti \cite{Reges88}. \par
 
-Jos ohjaajalla on vastuullaan tietty ryhmä opiskelijoita, hänen tehtäviinsä voi kuulua viikottainen yksilöllinen palautekeskustelu jokaisen ryhmänsä jäsenen kanssa. Opiskelija voi selittää ratkaisunsa johonkin tehtävään, tai kertoa, että ei ole ymmärtänyt jotakin kurssin asiaa. Ohjaaja taas voi selittää, mistä jokin virhe johtuu, ja miten sen voi jatkossa välttää. Näissä keskusteluissa ryhmänohjaaja saa kuvan opiskelijan edistymisestä kurssilla \cite{Reges88,Reges03}.  \par
+Jos ohjaajalla on vastuullaan tietty ryhmä opiskelijoita, hänen tehtäviinsä voi kuulua viikottainen yksilöllinen palautekeskustelu jokaisen ryhmänsä jäsenen kanssa \cite{Reges88,Reges03}. Opiskelija voi selittää ratkaisunsa johonkin tehtävään, tai kertoa, että ei ole ymmärtänyt jotakin kurssin asiaa. Ohjaaja taas voi selittää, mistä jokin virhe johtuu, ja miten sen voi jatkossa välttää. Näissä keskusteluissa ryhmänohjaaja saa kuvan opiskelijan edistymisestä kurssilla.  \par
 
-Ohjelmointikursseilla ohjaajat voivat päivystää tietokoneluokassa valmiina auttamaan kurssin opiskelijoita kurssiin liittyvissä ongelmissa. Ruuhka-ajoille päivystäviä ohjaajia pyritään järjestämään enemmän \cite{Reges88, Reges03}, ja ohjaajat saattavat voida kutsua lisäapua, mikäli tietokoneluokka ruuhkautuu pahasti \cite{Kurhila11}. Ohjaajan ei tulisi antaa suoraa vastausta tehtävään, vaan ohjata ja neuvoa opetettavaa löytämään ratkaisu itse \cite{Vikberg, Kurhila11}. Ohjelmointitehtävien yhteydessä ohjaaja voi kannustaa opetettavaa kirjoittamaan hyvää ja luettavaa koodia esimerkiksi muuttujien selkeällä nimeämisellä. Ohjaajat voivat erottuakseen joukosta täydessä tietokoneluokassa käyttää esimerkiksi turvaliivejä \cite{Vihavainen}. Yleisen neuvonnan lisäksi ohjaajalla voi olla vastaanottoaika, jonka aikana opiskelijat voivat käydä kysymässä häneltä yksilöllisiä vastauksia kurssiin liittyviin tehtäviin \cite{Decker06}. \par
+Ohjelmointikursseilla ohjaajat voivat päivystää tietokoneluokassa valmiina auttamaan kurssin opiskelijoita kurssiin liittyvissä ongelmissa. Ohjaajan ei tulisi antaa suoraa vastausta tehtävään, vaan ohjata ja neuvoa opetettavaa löytämään ratkaisu itse \cite{Vikberg, Kurhila11}. Ohjelmointitehtävien yhteydessä ohjaaja voi kannustaa opetettavaa kirjoittamaan hyvää ja luettavaa koodia esimerkiksi muuttujien selkeällä nimeämisellä. Ruuhka-ajoille päivystäviä ohjaajia pyritään järjestämään enemmän \cite{Reges88, Reges03}, ja ohjaajat saattavat voida kutsua lisäapua, mikäli tietokoneluokka ruuhkautuu pahasti \cite{Kurhila11}. Ohjaajat voivat erottuakseen joukosta täydessä tietokoneluokassa käyttää esimerkiksi turvaliivejä \cite{Vihavainen}. Yleisen neuvonnan lisäksi ohjaajalla voi olla yksityinen vastaanottoaika, jonka aikana opiskelijat voivat käydä kysymässä häneltä yksilöllisiä vastauksia kurssiin liittyviin tehtäviin \cite{Decker06}. \par
 
-Ohjaajat voivat pitää ennen koetta kertaustilaisuuden kurssin sisällöstä. Kertaustilaisuudessa he voivat kertoa, mitkä kurssin asiat ovat tärkeitä ja mitä kokeessa todennäköisesti kysytään, tai esitellä vanhoja kokeita ja niiden ratkaisuja \cite{Decker06}. \par
+Ohjaajat voivat pitää ennen koetta kertaustilaisuuden kurssin sisällöstä. Kertaustilaisuudessa he voivat kertoa, mitkä kurssin asiat ovat tärkeitä ja mitä kokeessa todennäköisesti kysytään, tai esitellä vanhoja kokeita ja niiden ratkaisuja \cite{Decker06}. Ohjaajat voivat myös valvoa kurssikokeita \cite{Richards00}. \par
 
 Ohjaajan tehtäviin kuuluu usein tehtävien tarkistaminen \cite{Dickson11}. Kun ohjaajat osallistuvat tehtävien tarkastamiseen, voi tehtäviä olla enemmän, ja luennoija voi käyttää aikansa tehokkaammin esimerkiksi kirjoittamalla kommentteja tehtäviin. \par
 
-Ohjaajan voidaan edellyttää osallistuvan kurssin luennoille pysyäkseen mahdollisimman hyvin perillä kurssin etenemisestä ja käsitellyistä esimerkeistä \cite{Reges03, Decker06}. Ohjaajat voivat ratkaista kurssin tehtävät ennen kuin ne annetaan opiskelijoille, mikä auttaa heitä valmistautumaan opiskelijoiden neuvontaan \cite{Vihavainen}. Ohjaajat voivat käydä kurssin materiaalin läpi ennen kuin luennoija esittää sen opiskelijoille, ja huomauttaa mahdollisista virheistä tai puutteista \cite{Vikberg}. \par
+Jotta ohjaaja pysyisi mahdollisimman hyvin perillä kurssin etenemisestä ja käsitellyistä esimerkeistä, hänen voidaan edellyttää osallistuvan kurssin luennoille \cite{Reges03, Decker06}. Jos ohjaajat käyvät kurssin materiaalin läpi jo ennen kuin luennoija esittää sen opiskelijoille, he voivat huomauttaa mahdollisista virheistä tai puutteista \cite{Vikberg}. Ohjaajat voivat ratkaista kurssin tehtävät ennen kuin ne annetaan opiskelijoille, mikä auttaa heitä valmistautumaan opiskelijoiden neuvontaan \cite{Vihavainen}. \par
 
 Ohjaaja voi päivittää kurssin verkkosivuja \cite{Dickson11}. Tämä vähentää luennoijan työtaakkaa ja auttaa opiskelijoita, joilla on vaikeuksia omien muistiinpanojen tekemisen kanssa. Luennoille osallistuva ohjaaja voi päivittää esimerkkejä verkkosivuille reaaliajassa. \par
-
-Ohjaajat voivat valvoa kurssikokeita \cite{Richards00}. \par
-
-
- 
-
-
-
-
-
 
 
 
@@ -171,19 +161,19 @@ Ohjaajat voivat valvoa kurssikokeita \cite{Richards00}. \par
 
 \subsection{Ohjaajien koulutus}
 
-Uusien ohjaajien kouluttamiseen voi kuulua erillinen tietojenkäsittelytieteen opettamiseen keskittyvä kurssi \cite{Reges88, Roberts95} tai aloitusseminaari \cite{Sperry08}. Ohjaajilla voi olla paljon koulutusta opettamansa kurssin alussa, ja koulutustapaamiset vähenevät ja lopulta loppuvat kokonaan kurssin edetessä \cite{Roberts95}. Myös teollisuuden edustajat voivat olla kiinnostuneita kouluttamaan ohjaajia \cite{Morgan02}. Joskus ohjaajilla ei ole mitään virallista koulutusta, vaan he oppivat työtä tekemällä ja luennoijan ja opiskelijoiden palautteen avulla \cite{Shannon98, Vihavainen}. Vaikka ohjaamisesta ei olisi varsinaista koulutusta, ohjaajana toimimisen palkitseminen opintopisteillä antaa opiskelijoille kuvan siitä, että kokemuksesta on tarkoitus oppia \cite{Vikberg}. \par
+Uusien ohjaajien kouluttamiseen voi kuulua erillinen tietojenkäsittelytieteen opettamiseen keskittyvä kurssi \cite{Reges88, Roberts95} tai aloitusseminaari \cite{Sperry08}. Myös teollisuuden edustajat voivat olla kiinnostuneita kouluttamaan ohjaajia \cite{Morgan02}. \par
 
-Ohjaajien kouluttamiseen liittyy usein keskustelutilaisuuksia. Niissä voidaan esimerkiksi harjoitella tehtävien pisteyttämistä, vaikeiden käsitteiden opettamista tai hankalien opiskelijoiden käsittelyä \cite{Reges03}. Koulutuksessa voidaan käydä läpi erilaisia oppimistyylejä ja keskustella, millainen on hyvä tai huono ohjaaja \cite{Kay95}. Uudet ohjaajat voivat pitää harjoitusesitelmiä toisilleen, mistä he saavat esiintymiskokemusta ja palautetta. Useita erilaisia esitelmiä nähdessään ohjaajat voivat oppia uusia lähestymistapoja aiheeseen.  \par
+Ohjaajilla voi olla paljon koulutusta opettamansa kurssin alussa, ja koulutustapaamiset vähenevät ja lopulta loppuvat kokonaan kurssin edetessä \cite{Roberts95}. Aina muodollista koulutusta ei juuri tarvita tai se ei ole mahdollista, jos uusia ohjaajia hankitaan jatkuvasti opetuksen edetessä \cite{Kurhila11}. Tällöin ohjaajat oppivat työtä tekemällä ja luennoijan ja opiskelijoiden palautteen avulla \cite{Shannon98, Vihavainen}, ja kokeneet ohjaajat voivat kouluttaa epävirallisesti uusia ohjaajia neuvomalla heitä \cite{Kurhila11}. Vaikka ohjaamisesta ei olisi varsinaista koulutusta, ohjaajana toimimisen palkitseminen opintopisteillä antaa opiskelijoille kuvan siitä, että kokemuksesta on tarkoitus oppia \cite{Vikberg}. \par
 
-Ohjaajat voivat harjoitella tehtävien ja kokeiden tekemistä \cite{Kay95}. Ohjaajille voidaan antaa tehtäväksi keskustella, millaisen tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen alkeiskurssin he suunnittelisivat. Kurssin suunnitteleminen voi saada ohjaajat ajattelemaan tietojenkäsittelytieteen opetukseen liittyviä laajoja kysymyksiä, kuten mitä sivuaineopiskelijoiden tulisi alasta oppia, tai millaiset pohjatiedot uusilla opiskelijoilla voi olettaa tietojenkäsittelytieteestä olevan.  \par
+Ohjaajien kouluttamiseen liittyy usein keskustelutilaisuuksia. Niissä voidaan esimerkiksi harjoitella tehtävien pisteyttämistä, vaikeiden käsitteiden opettamista tai hankalien opiskelijoiden käsittelyä \cite{Reges03}. Kes\-kus\-te\-lu\-ti\-lai\-suuk\-sis\-sa voidaan käydä läpi erilaisia oppimistyylejä ja keskustella, millainen on hyvä tai huono ohjaaja \cite{Kay95}. Uudet ohjaajat voivat pitää harjoitusesitelmiä toisilleen, mistä he saavat esiintymiskokemusta ja palautetta. Useita erilaisia esitelmiä nähdessään ohjaajat voivat oppia uusia lähestymistapoja aiheeseen.  \par
 
-Kokeneet ohjaajat voivat osallistua uusien ohjaajien koulutukseen kerratakseen omia taitojaan, ja samalla he voivat jakaa kokemustaan ja toimia roolimalleina uusille ohjaajille \cite{Reges88}. Kokeneiden ohjaajien vertaisopetus ja rohkaisu nopeuttaa uusien ohjaajien koulutusta \cite{Decker06}.  \par
+Ohjaajien koulutukseen voi kuulua tehtävien ja kokeiden tekemisen harjoittelu \cite{Kay95}. Ohjaajille voidaan antaa tehtäväksi keskustella, millaisen tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen alkeiskurssin he suunnittelisivat. Kurssin suunnitteleminen voi saada ohjaajat ajattelemaan tie\-to\-jen\-kä\-sit\-te\-ly\-tie\-teen opetukseen liittyviä laajoja kysymyksiä, kuten mitä sivuaineopiskelijoiden tulisi alasta oppia, tai millaiset pohjatiedot uusilla opiskelijoilla voi olettaa tietojenkäsittelytieteestä olevan.  \par
 
-Aina muodollista koulutusta ei juuri tarvita tai se ei ole mahdollista, jos uusia ohjaajia hankitaan jatkuvasti opetuksen edetessä. Kokeneet ohjaajat voivat kouluttaa epävirallisesti uusia ohjaajia neuvomalla heitä \cite{Kurhila11}.  \par
-
-Kehittyäkseen työssään ohjaajien on tärkeää saada palautetta \cite{Patitsas12, Patitsas12_3}. Myönteinen palaute parantaa ohjaajan itseluottamusta, mikä puolestaan parantaa hänen opetustaitojaan.  \par
+Kokeneet ohjaajat voivat osallistua uusien ohjaajien koulutukseen kerratakseen omia taitojaan, ja samalla he voivat jakaa kokemustaan ja toimia roolimalleina uusille ohjaajille \cite{Reges88}. Kokeneiden ohjaajien vertaisopetus ja rohkaisu nopeuttaa uusien ohjaajien koulutusta \cite{Decker06}. \par
 
 Vanhat ohjaajat voivat antaa hyödyllistä palautetta ohjaajien koulutuksesta \cite{Decker06}. Ohjaajat voivat suositella opettamiaan opiskelijoita uusiksi ohjaajiksi ja ehdottaa, millaisilla valintaperusteilla saadaan valittua parhaat ohjaajaehdokkaat.  \par
+
+Kehittyäkseen työssään ohjaajien on tärkeää saada palautetta \cite{Patitsas12, Patitsas12_3}. Myönteinen palaute parantaa ohjaajan itseluottamusta, mikä puolestaan parantaa hänen opetustaitojaan. \par
 
 Opiskellessaan opetusta ryhmänä ohjaajat oppivat tuntemaan toisensa ja voivat ystävystyä \cite{Roberts95}. \par
 
