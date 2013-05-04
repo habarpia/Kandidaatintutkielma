@@ -1423,3 +1423,13 @@ year = {2013},
 last_edited = {21.1.2013},
 retrieved = {30.4.2013},
 }
+
+@book{biggs07,
+  title={Teaching for quality learning at university: what the student does},
+  author={Biggs, J. and Tang, C.},
+  isbn={9780335221264},
+  series={Society for Research into Highter Education},
+  url={http://books.google.fi/books?id=TBadAAAAMAAJ},
+  year={2007},
+  publisher={McGraw-Hill}
+}
